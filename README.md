@@ -1,3 +1,6 @@
+页面：https://coolfanssub.gitbook.io/lfbw-subs/
+
+
 # 冷番补完字幕组
 
 此页面用于冷番补完字幕组的字幕备份
