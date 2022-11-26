@@ -3,6 +3,8 @@
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
 * [2022](2022/README.md)
+  * [11月](2022/11-yue/README.md)
+    * [\[冷番补完字幕组\]\[搞怪拍档\]\[银河女警花\]\[ダーティペア\]\[Dirty Pair\]\[TV+OVA+MOVIE\]\[BD\]\[1080p\]\[x265\]\[V2\]\[内封简中字幕\]](2022/11-yue/dtipeadirty-pairtvovamoviebd1080px265v2.md)
   * [10月](2022/10-yue/README.md)
     * [\[冷番补完字幕组\]\[变幻退魔夜行 奈良怨灵绘卷\]\[変幻退魔夜行 カルラ舞う! 奈良怨霊絵巻\]\[1989\]\[480P\]\[简体外挂\]\[V2\]](2022/10-yue/karurau-1989480pv2.md)
     * [\[冷番补完字幕组\]\[COSMOS 粉色冲击\]\[COSMOS ピンクショック\]\[OVA\]\[1986\]\[480P\]\[简体外挂\]](2022/10-yue/cosmos-cosmos-pinkushokkuova1986480p.md)

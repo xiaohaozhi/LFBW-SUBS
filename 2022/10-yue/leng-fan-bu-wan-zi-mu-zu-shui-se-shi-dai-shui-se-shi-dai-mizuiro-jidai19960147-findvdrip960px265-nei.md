@@ -22,7 +22,7 @@
 | 播放器   | [Potplayer](https://potplayer.daum.net/)、[MPC-BE](https://sourceforge.net/projects/mpcbe/)、[MX Player](https://www.lanzous.com/b688551)         |
 | 下载/分流 | <p><a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases">qBittorrent</a>、uTorrent、Transmission</p><p>推荐使用正规BT软件，延长保种时间</p> |
 
-## ![](../../.gitbook/assets/image.png)
+## ![](<../../.gitbook/assets/image (4).png>)
 
 ##
 
