@@ -1,4 +1,10 @@
-# \[冷番补完字幕组]\[水色时代]\[水色時代]\[Mizuiro Jidai]\[1996]01-47 Fin]\[DVDRip]\[960p]\[x265]\[内封简繁中字]
+---
+description: >-
+  [冷番补完字幕组][水色时代][水色時代][Mizuiro Jidai][1996]01-47
+  Fin][DVDRip][960p][x265][内封简繁中字]
+---
+
+# 水色时代
 
 ![](<../../.gitbook/assets/image (3).png>)
 

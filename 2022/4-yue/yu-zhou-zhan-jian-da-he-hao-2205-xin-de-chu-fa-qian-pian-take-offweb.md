@@ -1,3 +1,7 @@
+---
+description: 【冷番补完字幕组】[宇宙战舰大和号2205 新的出发 前篇 -TAKE OFF-][WEB][1080P][2021][简中内封]
+---
+
 # 宇宙战舰大和号2205 新的出发 前篇 -TAKE OFF-\[WEB]
 
 #### 【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发 前篇 -TAKE OFF-]\[WEB]\[1080P]\[2021]\[简中内封]
@@ -59,6 +63,6 @@
   * &#x20;[【冷番补完字幕组】\[宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-\]\[WEB\]\[1080P\]\[2021\]\[简中内封\].mkv2.700GiB](https://share.dmhy.org/topics/view/596509\_2205\_-TAKE\_OFF-\_WEB\_1080P\_2021.html)\
 
 
-{% file src="../../.gitbook/assets/[MUX]「宇宙戦艦ヤマト2205　新たなる旅立ち」前章 -TAKE OFF- (1).7z" %}
+{% file src="../../.gitbook/assets/[MUX]「宇宙戦艦ヤマト2205　新たなる旅立ち」前章 -TAKE OFF-.7z" %}
 
 gzc\_1000035\_0b53iqaemaaaiqafx62l75rjkrgdizcaarsa
