@@ -3,6 +3,8 @@
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
 * [2022](2022/README.md)
+  * [12月](2022/12-yue/README.md)
+    * [魔法之星爱美](2022/12-yue/mo-fa-zhi-xing-ai-mei.md)
   * [11月](2022/11-yue/README.md)
     * [梅德尔传奇](2022/11-yue/mei-de-er-chuan-qi.md)
     * [银河铁道999外传 宇宙交响诗](2022/11-yue/yin-he-tie-dao-999-wai-chuan-yu-zhou-jiao-xiang-shi.md)
