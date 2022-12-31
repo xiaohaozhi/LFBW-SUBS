@@ -4,6 +4,7 @@
 * [招募](untitled.md)
 * [2022](2022/README.md)
   * [12月](2022/12-yue/README.md)
+    * [信蜂 REVERSE SP](2022/12-yue/xin-feng-reverse-sp.md)
     * [魔法之星爱美](2022/12-yue/mo-fa-zhi-xing-ai-mei.md)
   * [11月](2022/11-yue/README.md)
     * [梅德尔传奇](2022/11-yue/mei-de-er-chuan-qi.md)
