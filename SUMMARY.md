@@ -6,7 +6,7 @@
   * [12月](2022/12-yue/README.md)
     * [大和号2520](2022/12-yue/da-he-hao-2520.md)
     * [信蜂 REVERSE SP](2022/12-yue/xin-feng-reverse-sp.md)
-    * [勇者莱汀](2022/12-yue/yong-zhe-lai-ting.md)
+    * [勇者莱汀\[合作\]](2022/12-yue/yong-zhe-lai-ting-he-zuo.md)
     * [魔法之星爱美](2022/12-yue/mo-fa-zhi-xing-ai-mei.md)
   * [11月](2022/11-yue/README.md)
     * [梅德尔传奇](2022/11-yue/mei-de-er-chuan-qi.md)

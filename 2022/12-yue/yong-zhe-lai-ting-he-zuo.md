@@ -4,7 +4,7 @@ description: >-
   Raideen][01-50][GB][TVRIP][480P][MP4][附网盘]
 ---
 
-# 勇者莱汀
+# 勇者莱汀\[合作]
 
 ![https://s1.ax1x.com/2022/12/27/zz2Vmj.jpg](https://s1.ax1x.com/2022/12/27/zz2Vmj.jpg)
 
