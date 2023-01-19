@@ -4,6 +4,7 @@
 * [招募](untitled.md)
 * [2023](2023/README.md)
   * [1月](2023/1-yue/README.md)
+    * [暗夜时代剧](2023/1-yue/an-ye-shi-dai-ju.md)
     * [勇者莱汀](2023/1-yue/yong-zhe-lai-ting.md)
     * [大和零号](2023/1-yue/da-he-ling-hao.md)
 * [2022](2022/README.md)
