@@ -100,3 +100,6 @@ description: >-
 
 
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙战舰山本洋子][それゆけ! 宇宙戦艦ヤマモト ヨーコ][Sore Yuke! Uchuu Senkan Yamamoto Youko][1999][全26集][1080p][x265][SUBS].7z" %}
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙战舰山本洋子][それゆけ! 宇宙戦艦ヤマモト ヨーコ][Sore Yuke! Uchuu Senkan Yamamoto Youko][1999][全26集][1080p][x265][Fonts].7z" %}
