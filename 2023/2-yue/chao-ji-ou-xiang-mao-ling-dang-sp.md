@@ -56,3 +56,6 @@ description: '[冷番补完字幕组][超级偶像猫铃铛][Di Gi Charat][デ �
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[超级偶像猫铃铛]\[Di Gi Charat]\[デ ジ キャラット]\[2001-2003]\[SP]\[内封简中字幕]/铃铛猫娘2003年OVA 交给初子吧SP01蓝色红色绿色.Leave.it.to.Piyoko.pyo.2003.SP01.480p.DVDrip.H263.MP3-CoolFansSub.mkv 135.8MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[超级偶像猫铃铛]\[Di Gi Charat]\[デ ジ キャラット]\[2001-2003]\[SP]\[内封简中字幕]/铃铛猫娘2003年OVA 交给初子吧SP02蒂琪子姐姐.Leave.it.to.Piyoko.pyo.2003.SP01.480p.DVDrip.H263.MP3-CoolFansSub.mkv 155.4MB
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][超级偶像猫铃铛][Di Gi Charat][デ ジ キャラット][2001-2003][SP][SUBS].7z" %}
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][超级偶像猫铃铛][Di Gi Charat][デ ジ キャラット][2001-2003][SP][Fonts].7z" %}
