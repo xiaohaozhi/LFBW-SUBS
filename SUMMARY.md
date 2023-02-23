@@ -4,6 +4,7 @@
 * [招募](untitled.md)
 * [2023](2023/README.md)
   * [2月](2023/2-yue/README.md)
+    * [超级偶像猫铃铛 SP](2023/2-yue/chao-ji-ou-xiang-mao-ling-dang-sp.md)
     * [宇宙战舰山本洋子 SP](2023/2-yue/yu-zhou-zhan-jian-shan-ben-yang-zi-sp.md)
   * [1月](2023/1-yue/README.md)
     * [宇宙战舰山本洋子](2023/1-yue/yu-zhou-zhan-jian-shan-ben-yang-zi.md)
