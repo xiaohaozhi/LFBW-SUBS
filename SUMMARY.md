@@ -3,6 +3,8 @@
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
 * [2023](2023/README.md)
+  * [2月](2023/2-yue/README.md)
+    * [宇宙战舰山本洋子 SP](2023/2-yue/yu-zhou-zhan-jian-shan-ben-yang-zi-sp.md)
   * [1月](2023/1-yue/README.md)
     * [宇宙战舰山本洋子](2023/1-yue/yu-zhou-zhan-jian-shan-ben-yang-zi.md)
     * [暗夜时代剧](2023/1-yue/an-ye-shi-dai-ju.md)
