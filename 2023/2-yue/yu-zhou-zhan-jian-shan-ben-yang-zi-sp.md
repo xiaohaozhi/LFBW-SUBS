@@ -56,3 +56,6 @@ description: >-
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[SP]\[Drama CD]\[内封简中字幕]/Sore.Yuke!Uchuu.Senkan.Yamamoto.Youko.Full.Set.DVD.Buying.Special.Premium.CD-CoolFansSub.mkv 695.3MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[SP]\[Drama CD]\[内封简中字幕]/Sore.Yuke!Uchuu.Senkan.Yamamoto.Youko.Special.Drama.CD-CoolFansSub.mkv 359.5MB
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙战舰山本洋子][それゆけ! 宇宙戦艦ヤマモト ヨーコ][Sore Yuke! Uchuu Senkan Yamamoto Youko][1999][SP][Drama CD][SUBS].7z" %}
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙战舰山本洋子][それゆけ! 宇宙戦艦ヤマモト ヨーコ][Sore Yuke! Uchuu Senkan Yamamoto Youko][1999][SP][Drama CD][Fonts].7z" %}
