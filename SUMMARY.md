@@ -3,6 +3,8 @@
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
 * [2023](2023/README.md)
+  * [3月](2023/3-yue/README.md)
+    * [宇宙战舰大和号 复活篇 导演剪辑版](2023/3-yue/yu-zhou-zhan-jian-da-he-hao-fu-huo-pian-dao-yan-jian-ji-ban.md)
   * [2月](2023/2-yue/README.md)
     * [超级偶像猫铃铛 SP](2023/2-yue/chao-ji-ou-xiang-mao-ling-dang-sp.md)
     * [宇宙战舰山本洋子 SP](2023/2-yue/yu-zhou-zhan-jian-shan-ben-yang-zi-sp.md)
