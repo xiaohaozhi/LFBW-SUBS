@@ -8,7 +8,11 @@ description: >-
 
 ![](https://img.gejiba.com/images/3e4342ddc40037fda60c468d733bf423.jpg)
 
-&#x20;
+&#x20;![](../../.gitbook/assets/4441726c435096e9b83043e132e72569\_3e4342ddc40037fda60c468d733bf423.jpg)
+
+
+
+
 
 | 片名                   | <p>[宇宙战舰大和号 复活篇]</p><p>[宇宙戦艦ヤマト 復活篇]</p><p>[Uchuu Senkan Yamato Fukkatsu Hen]</p> |
 | -------------------- | --------------------------------------------------------------------------------- |
@@ -63,3 +67,4 @@ description: >-
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙战舰大和号 复活篇][宇宙戦艦ヤマト 復活篇][Uchuu Senkan Yamato Fukkatsu Hen][剧场版][导演剪辑版][2009][1080p][x265][SUBS].7z" %}
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙战舰大和号 复活篇][宇宙戦艦ヤマト 復活篇][Uchuu Senkan Yamato Fukkatsu Hen][剧场版][导演剪辑版][2009][1080p][x265][Fonts].7z" %}
