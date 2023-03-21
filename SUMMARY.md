@@ -4,6 +4,7 @@
 * [招募](untitled.md)
 * [2023](2023/README.md)
   * [3月](2023/3-yue/README.md)
+    * [魔法妖精贝露莎](2023/3-yue/mo-fa-yao-jing-bei-lou-suo.md)
     * [魔法偶像神笔由美](2023/3-yue/mo-fa-ou-xiang-shen-bi-you-mei.md)
     * [宇宙战舰大和号 复活篇 导演剪辑版](2023/3-yue/yu-zhou-zhan-jian-da-he-hao-fu-huo-pian-dao-yan-jian-ji-ban.md)
   * [2月](2023/2-yue/README.md)
