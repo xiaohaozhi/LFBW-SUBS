@@ -4,6 +4,7 @@
 * [招募](untitled.md)
 * [2023](2023/README.md)
   * [4月](2023/4-yue/README.md)
+    * [银河女战士](2023/4-yue/yin-he-nv-zhan-shi.md)
     * [梦幻拉拉](2023/4-yue/meng-huan-la-la.md)
   * [3月](2023/3-yue/README.md)
     * [魔法妖精贝露莎](2023/3-yue/mo-fa-yao-jing-bei-lou-suo.md)
