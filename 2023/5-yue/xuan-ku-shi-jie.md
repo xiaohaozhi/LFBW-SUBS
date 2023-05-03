@@ -57,3 +57,4 @@ description: '[冷番补完字幕组][炫酷世界][Cool World][1992][1080p][内
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][炫酷世界][Cool World][1992][1080p][SUB].7z" %}
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][炫酷世界][Cool World][1992][1080p][Fonts].7z" %}
