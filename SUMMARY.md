@@ -4,6 +4,7 @@
 * [招募](untitled.md)
 * [2023](2023/README.md)
   * [5月](2023/5-yue/README.md)
+    * [咆哮女郎巴明欣\[V2\]](2023/5-yue/pao-xiao-nv-lang-ba-ming-xin-v2.md)
     * [炫酷世界](2023/5-yue/xuan-ku-shi-jie.md)
   * [4月](2023/4-yue/README.md)
     * [DT战士](2023/4-yue/dt-zhan-shi.md)
