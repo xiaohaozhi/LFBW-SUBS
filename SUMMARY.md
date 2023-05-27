@@ -2,6 +2,7 @@
 
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
+* [开坑计划](kai-keng-ji-hua.md)
 * [2023](2023/README.md)
   * [5月](2023/5-yue/README.md)
     * [咆哮女郎巴明欣\[V2\]](2023/5-yue/pao-xiao-nv-lang-ba-ming-xin-v2.md)
