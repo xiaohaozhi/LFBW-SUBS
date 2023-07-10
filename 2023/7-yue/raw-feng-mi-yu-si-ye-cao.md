@@ -6,6 +6,8 @@ description: >-
 
 # \[RAW]蜂蜜与四叶草
 
+特别鸣谢:Kukoc@Magic-Raws
+
 * [BT列表](https://share.dmhy.org/topics/view/645142\_Honey\_and\_Clover\_S01\_S02\_2005-2006\_1080p\_RAW.html#tabs-1)
 
 **會員專用連接:** [\[冷番补完字幕组\]\[蜂蜜与四叶草\]\[ハチミツとクローバー\]\[Honey and Clover\]\[S01+S02\]\[2005-2006\]\[1080p\]\[RAW\]](https://dl.dmhy.org/2023/07/10/1698db7658c325512098893d2b4cb8d32d3836d9.torrent)
