@@ -74,7 +74,7 @@ qBittorrent、uTorrent、Transmission
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=907490ee7d5dc0160d1027982e0d11ecf34d523d)
 
-***
+
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[魔神Z]\[マジンガーZ]\[Mazinger Z]\[1972]\[01-92 Fin]\[BD]\[1080p]\[V3]/\[冷番补完字幕组]\[魔神Z]\[マジンガーZ]\[Mazinger Z]\[1972]\[01-92 Fin]\[BD]\[1080p]\[SUB]\[V3].7z 23.3MB
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[魔神Z]\[マジンガーZ]\[Mazinger Z]\[1972]\[01-92 Fin]\[BD]\[1080p]\[V3]/招募.jpg 411KB

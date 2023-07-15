@@ -47,7 +47,7 @@ description: '[冷番补完字幕组][炫酷世界][Cool World][1992][1080p][内
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=d4c3b043c6ed5cc9c70a757616dd5a022929abe0)
 
-***
+
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[炫酷世界]\[Cool World]\[1992]\[1080p]\[内封中英双语字幕]/\[冷番补完字幕组]\[炫酷世界]\[Cool World]\[1992]\[1080p]\[Fonts].7z 14.8MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[炫酷世界]\[Cool World]\[1992]\[1080p]\[内封中英双语字幕]/\[冷番补完字幕组]\[炫酷世界]\[Cool World]\[1992]\[1080p]\[SUB].7z 35KB

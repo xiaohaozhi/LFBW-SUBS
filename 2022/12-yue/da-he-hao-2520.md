@@ -44,7 +44,7 @@ description: '[冷番补完字幕组][大和号2520][YAMATO2520][OVA][1995][720p
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=5fc93bacd6a60c78efa74bcf577e0694c2503790)
 
-***
+
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[大和号2520]\[YAMATO2520]\[OVA]\[1995]\[720p]\[x265]\[全3集]\[内封简中字幕]/SP/YAMATO 2520 Music Collection (FLAC).7z 707.9MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[大和号2520]\[YAMATO2520]\[OVA]\[1995]\[720p]\[x265]\[全3集]\[内封简中字幕]/SP/大和号2520.YAMATO.2520.OVA.1995.SP01.720p.LDrip.x265.AC3-CoolFansSub.mkv 1.3GB

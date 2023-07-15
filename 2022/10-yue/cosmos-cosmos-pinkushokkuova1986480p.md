@@ -40,7 +40,7 @@ description: '[冷番补完字幕组][COSMOS 粉色冲击][COSMOS ピンクシ�
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=bb0acba712ecee8f5708ebe0d57dcf3b22d5fe6f)
 
-***
+
 
 * ![unknown](https://share.dmhy.org/images/icon/unknown.gif)\[冷番补完]\[COSMOS 粉色冲击]\[COSMOS ピンクショック]\[OVA]\[1986]\[480P]\[简体外挂]/Fonts/方正兰亭特黑斜.ttf 6.7MB
 * ![unknown](https://share.dmhy.org/images/icon/unknown.gif)\[冷番补完]\[COSMOS 粉色冲击]\[COSMOS ピンクショック]\[OVA]\[1986]\[480P]\[简体外挂]/Fonts/方正行楷\_GBK(1).TTF 7.1MB
