@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2023](2023/README.md)
   * [7月](2023/7-yue/README.md)
+    * [盖塔机器人号](2023/7-yue/gai-ta-ji-qi-ren-hao.md)
     * [\[RAW\]百变之星\[V2\]](2023/7-yue/raw-bai-bian-zhi-xing-v2.md)
     * [\[RAW\]蜂蜜与四叶草](2023/7-yue/raw-feng-mi-yu-si-ye-cao.md)
   * [5月](2023/5-yue/README.md)
