@@ -5,6 +5,8 @@
 * [开坑计划](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2023](2023/README.md)
+  * [8月](2023/8-yue/README.md)
+    * [明日之丈2剧场版](2023/8-yue/ming-ri-zhi-zhang-2-ju-chang-ban.md)
   * [7月](2023/7-yue/README.md)
     * [\[RAW\]神风怪盗贞德](2023/7-yue/raw-shen-feng-guai-dao-zhen-de.md)
     * [盖塔机器人号](2023/7-yue/gai-ta-ji-qi-ren-hao.md)
