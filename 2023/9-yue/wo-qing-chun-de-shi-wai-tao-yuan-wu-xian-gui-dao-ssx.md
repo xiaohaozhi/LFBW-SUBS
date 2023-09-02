@@ -14,7 +14,8 @@ description: >-
 
 <figure><img src="https://img.gejiba.com/images/a10f6918aa17bdf41d7f20f4ae68c761.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://img.gejiba.com/images/a10f6918aa17bdf41d7f20f4ae68c761.jpg" alt=""><figcaption></figcaption></figure>
+&#x20;\
+
 
 | 片名 | <p>[我青春的世外桃源 无限轨道SSX]</p><p>[わが青春のアルカディア 無限軌道SSX]</p> |
 | -- | ----------------------------------------------------- |
@@ -33,7 +34,7 @@ description: >-
 | 字幕反馈  | coolfanssub@outlook.com                                                                                                                                                                                                                      |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                         |
 
-&#x20;
+
 
 <figure><img src="https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -91,3 +92,10 @@ description: >-
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[我青春的世外桃源 无限轨道SSX]\[わが青春のアルカディア 無限軌道SSX]\[Waga Seishun no Arcadia Mugen Kidou SSX]\[1982]\[TV 01-22 Fin]\[720p]\[内封简繁中字]/冷番补完字幕组招募中.jpg 410.9KB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[我青春的世外桃源 无限轨道SSX]\[わが青春のアルカディア 無限軌道SSX]\[Waga Seishun no Arcadia Mugen Kidou SSX]\[1982]\[TV 01-22 Fin]\[720p]\[内封简繁中字]/\[冷番补完字幕组]\[我青春的世外桃源 无限轨道SSX]\[わが青春のアルカディア 無限軌道SSX]\[Waga Seishun no Arcadia Mugen Kidou SSX]\[1982]\[TV 01-22 Fin]\[720p]\[SUBS].7z 152.5KB
 
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][我青春的世外桃源 无限轨道SSX][わが青春のアルカディア 無限軌道SSX][Waga Seishun no Arcadia Mugen Kidou SSX][1982][TV 01-22 Fin][720p][SUBS].7z" %}
+
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][我青春的世外桃源 无限轨道SSX][わが青春のアルカディア 無限軌道SSX][Waga Seishun no Arcadia Mugen Kidou SSX][1982][TV 01-22 Fin][720p][Fonts].7z" %}
