@@ -10,18 +10,11 @@ description: >-
 
 **簡介:**&#x20;
 
-\
 
 
 <figure><img src="https://img.gejiba.com/images/a10f6918aa17bdf41d7f20f4ae68c761.jpg" alt=""><figcaption></figcaption></figure>
 
-<div align="center">
-
-<img src="https://img.gejiba.com/images/a10f6918aa17bdf41d7f20f4ae68c761.jpg" alt="" width="188">
-
-</div>
-
-&#x20;
+<figure><img src="https://img.gejiba.com/images/a10f6918aa17bdf41d7f20f4ae68c761.jpg" alt=""><figcaption></figcaption></figure>
 
 | 片名 | <p>[我青春的世外桃源 无限轨道SSX]</p><p>[わが青春のアルカディア 無限軌道SSX]</p> |
 | -- | ----------------------------------------------------- |
@@ -42,10 +35,7 @@ description: >-
 
 &#x20;
 
-![](https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg)
-
-\
-
+<figure><img src="https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg" alt=""><figcaption></figcaption></figure>
 
 * [BT列表](https://share.dmhy.org/topics/view/650014\_SSX\_SSX\_Waga\_Seishun\_no\_Arcadia\_Mugen\_Kidou\_SSX\_1982\_TV\_01-22\_Fin\_720p.html#tabs-1)
 
@@ -101,4 +91,3 @@ description: >-
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[我青春的世外桃源 无限轨道SSX]\[わが青春のアルカディア 無限軌道SSX]\[Waga Seishun no Arcadia Mugen Kidou SSX]\[1982]\[TV 01-22 Fin]\[720p]\[内封简繁中字]/冷番补完字幕组招募中.jpg 410.9KB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[我青春的世外桃源 无限轨道SSX]\[わが青春のアルカディア 無限軌道SSX]\[Waga Seishun no Arcadia Mugen Kidou SSX]\[1982]\[TV 01-22 Fin]\[720p]\[内封简繁中字]/\[冷番补完字幕组]\[我青春的世外桃源 无限轨道SSX]\[わが青春のアルカディア 無限軌道SSX]\[Waga Seishun no Arcadia Mugen Kidou SSX]\[1982]\[TV 01-22 Fin]\[720p]\[SUBS].7z 152.5KB
 
-\*\*\*以下發佈所有評論，僅代表網友觀點與本站無關!\*\*\*
