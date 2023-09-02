@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2023](2023/README.md)
   * [9月](2023/9-yue/README.md)
+    * [我的青春的阿卡迪亚](2023/9-yue/wo-de-qing-chun-deaka-di-ya.md)
     * [我青春的世外桃源 无限轨道SSX](2023/9-yue/wo-qing-chun-de-shi-wai-tao-yuan-wu-xian-gui-dao-ssx.md)
   * [8月](2023/8-yue/README.md)
     * [\[RAW\]水星领航员](2023/8-yue/raw-shui-xing-ling-hang-yuan.md)
