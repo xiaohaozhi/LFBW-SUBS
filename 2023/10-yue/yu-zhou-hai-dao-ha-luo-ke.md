@@ -111,3 +111,11 @@ description: >-
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[宇宙海盗哈洛克]\[宇宙海賊キャプテンハーロック]\[Uchuu Kaizoku Captain Herlock]\[1978]\[TV+Movie]\[1080p]\[内封简繁中字]/冷番补完字幕组招募中.jpg 410.9KB
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[宇宙海盗哈洛克]\[宇宙海賊キャプテンハーロック]\[Uchuu Kaizoku Captain Herlock]\[1978]\[TV+Movie]\[1080p]\[内封简繁中字]/宇宙海盗哈洛克.jpg 233.2KB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[宇宙海盗哈洛克]\[宇宙海賊キャプテンハーロック]\[Uchuu Kaizoku Captain Herlock]\[1978]\[TV+Movie]\[1080p]\[内封简繁中字]/\[冷番补完字幕组]\[宇宙海盗哈洛克]\[宇宙海賊キャプテンハーロック]\[Uchuu Kaizoku Captain Herlock]\[1978]\[TV+Movie]\[1080p]\[SUBS].7z 225.8KB
+
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙海盗哈洛克][宇宙海賊キャプテンハーロック][Uchuu Kaizoku Captain Herlock][1978][TV+Movie][1080p][SUBS].7z" %}
+
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][宇宙海盗哈洛克][宇宙海賊キャプテンハーロック][Uchuu Kaizoku Captain Herlock][1978][TV+Movie][1080p][Fonts].7z" %}
