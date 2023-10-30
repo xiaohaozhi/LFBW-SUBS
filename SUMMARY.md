@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2023](2023/README.md)
   * [10月](2023/10-yue/README.md)
+    * [铃芽之旅](2023/10-yue/ling-ya-zhi-lv.md)
     * [宇宙海盗哈洛克\[V2\]](2023/10-yue/yu-zhou-hai-dao-ha-luo-ke-v2.md)
   * [9月](2023/9-yue/README.md)
     * [\[RAW\]窈窕淑女](2023/9-yue/raw-yao-tiao-shu-nv.md)
