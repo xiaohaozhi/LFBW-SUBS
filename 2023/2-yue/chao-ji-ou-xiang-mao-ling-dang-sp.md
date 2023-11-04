@@ -46,7 +46,7 @@ description: '[冷番补完字幕组][超级偶像猫铃铛][Di Gi Charat][デ �
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=0499c429247d5119988ab203f880072c3020233d)
 
-
+***
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[超级偶像猫铃铛]\[Di Gi Charat]\[デ ジ キャラット]\[2001-2003]\[SP]\[内封简中字幕]/\[冷番补完字幕组]\[超级偶像猫铃铛]\[Di Gi Charat]\[デ ジ キャラット]\[2001-2003]\[SP]\[Fonts].7z 8.1MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[超级偶像猫铃铛]\[Di Gi Charat]\[デ ジ キャラット]\[2001-2003]\[SP]\[内封简中字幕]/\[冷番补完字幕组]\[超级偶像猫铃铛]\[Di Gi Charat]\[デ ジ キャラット]\[2001-2003]\[SP]\[SUBS].7z 13.2KB

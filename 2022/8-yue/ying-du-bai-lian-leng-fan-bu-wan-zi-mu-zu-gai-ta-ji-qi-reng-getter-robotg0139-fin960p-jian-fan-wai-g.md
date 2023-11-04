@@ -65,7 +65,7 @@ CAST :\
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=ae7057a8672148775a1386988959a291818d3946)
 
-
+***
 
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[Sakurato锛哃FBW锛哠hirokoi]\[Getter Robo G]\[01-39END]\[ASSx2]\[DVDRIP]\[960P]/\[Sakurato锛哃FBW锛哠hirokoi]\[Getter Robo G]\[01]\[DVDRIP]\[960P].mkv 869.3MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[Sakurato锛哃FBW锛哠hirokoi]\[Getter Robo G]\[01-39END]\[ASSx2]\[DVDRIP]\[960P]/\[Sakurato锛哃FBW锛哠hirokoi]\[Getter Robo G]\[02]\[DVDRIP]\[960P].mkv 770.7MB

@@ -52,7 +52,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=56b765e97f368f5e9a39e81c914146bb4561d244)
 
-
+***
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[新竹取物语 千年女王]\[新竹取物語 1000年女王]\[Queen Millenia]\[1981]\[720p]\[x265]\[TV+MOVIE]\[内封简繁中字]/\[冷番补完字幕组]\[新竹取物语 千年女王]\[新竹取物語 1000年女王]\[Queen Millenia]\[1981]\[720p]\[x265]\[TV+MOVIE]\[Fonts].7z 83.9MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[新竹取物语 千年女王]\[新竹取物語 1000年女王]\[Queen Millenia]\[1981]\[720p]\[x265]\[TV+MOVIE]\[内封简繁中字]/\[冷番补完字幕组]\[新竹取物语 千年女王]\[新竹取物語 1000年女王]\[Queen Millenia]\[1981]\[720p]\[x265]\[TV+MOVIE]\[SUBS].7z 503.3KB

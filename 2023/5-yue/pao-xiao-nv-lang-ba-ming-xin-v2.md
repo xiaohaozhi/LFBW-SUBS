@@ -47,7 +47,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=7e42215bb6d489b8657164ab2cd53676f82d9ef8)
 
-
+***
 
 * ![zip](https://share.dmhy.org/images/icon/zip.gif)\[冷番补完字幕组\&HUNGRY GUMI]\[咆哮女郎巴明欣]\[巴がゆく!]\[Tomoe ga Yuku!]\[1991]\[OVA]\[全2集]\[480p]\[内封简中字幕]\[V2]/Music/Tomoe ga Yuku! Image Album \[FLAC].zip 241.9MB
 * ![zip](https://share.dmhy.org/images/icon/zip.gif)\[冷番补完字幕组\&HUNGRY GUMI]\[咆哮女郎巴明欣]\[巴がゆく!]\[Tomoe ga Yuku!]\[1991]\[OVA]\[全2集]\[480p]\[内封简中字幕]\[V2]/Music/Tomoe ga Yuku! Original Soundtrack \[FLAC].zip 301.7MB

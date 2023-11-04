@@ -50,7 +50,7 @@ description: 【冷番补完字幕组】[宇宙战舰大和号2205 新的出发]
 
     **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=0405e9a16441b00a39828c8982a65657a3b317ce)
 
-
+    ***
 
     * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发]\[01-08 Fin]\[BD+WEB]\[1080P]\[2021]\[简中V2]/BD/Uchuu.Senkan.Yamato.2205.Aratanaru.Tabidachi.2021.E01.V2.1080p.BDRip.x264.FLAC-CoolFansSub.mkv 1.9GB
     * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发]\[01-08 Fin]\[BD+WEB]\[1080P]\[2021]\[简中V2]/BD/Uchuu.Senkan.Yamato.2205.Aratanaru.Tabidachi.2021.E02.V2.1080p.BDRip.x264.FLAC-CoolFansSub.mkv 1.9GB

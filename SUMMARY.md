@@ -5,6 +5,8 @@
 * [开坑计划](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2023](2023/README.md)
+  * [11月](2023/11-yue/README.md)
+    * [塞纳之星](2023/11-yue/sai-na-zhi-xing.md)
   * [10月](2023/10-yue/README.md)
     * [铃芽之旅](2023/10-yue/ling-ya-zhi-lv.md)
     * [宇宙海盗哈洛克\[V2\]](2023/10-yue/yu-zhou-hai-dao-ha-luo-ke-v2.md)

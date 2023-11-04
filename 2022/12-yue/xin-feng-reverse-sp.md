@@ -45,7 +45,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=3e92ab8eed7bbda67802bb26fa7de54ddd1c7fb8)
 
-
+***
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[信蜂 REVERSE SP]\[テガミバチ REVERSE SP]\[Tegami Bachi Letter Bee Reverse]\[2010]\[480p]\[x264]\[全25集]\[内封简中字幕]/\[冷番补完字幕组]\[信蜂 REVERSE SP]\[テガミバチ REVERSE SP]\[Tegami Bachi Letter Bee Reverse]\[2010]\[480p]\[x264]\[全25集]\[Fonts].7z 7.3MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[信蜂 REVERSE SP]\[テガミバチ REVERSE SP]\[Tegami Bachi Letter Bee Reverse]\[2010]\[480p]\[x264]\[全25集]\[内封简中字幕]/\[冷番补完字幕组]\[信蜂 REVERSE SP]\[テガミバチ REVERSE SP]\[Tegami Bachi Letter Bee Reverse]\[2010]\[480p]\[x264]\[全25集]\[SUBS].7z 26.9KB
