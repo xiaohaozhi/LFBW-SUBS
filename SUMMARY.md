@@ -127,5 +127,5 @@
 
 ## Fans
 
-* [其它](fans/qi-ta/README.md)
-  * [县立地球防卫军](fans/qi-ta/xian-li-di-qiu-fang-wei-jun.md)
+* [HUNGRY GUMI](fans/hungry-gumi/README.md)
+  * [县立地球防卫军](fans/hungry-gumi/xian-li-di-qiu-fang-wei-jun.md)
