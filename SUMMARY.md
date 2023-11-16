@@ -127,4 +127,5 @@
 
 ## Fans
 
-* [其它](fans/qi-ta.md)
+* [其它](fans/qi-ta/README.md)
+  * [县立地球防卫军](fans/qi-ta/xian-li-di-qiu-fang-wei-jun.md)

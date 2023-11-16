@@ -39,7 +39,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=7aadf9e96043d97cb2f0ffdc4d12adf829992db9)
 
-***
+
 
 * ![mp4](https://share.dmhy.org/images/icon/mp4.gif)\[Shirokoi＆CoolfansSub]\[Yuusha Raideen]\[GB]\[TVRIP]\[480P]/\[Shirokoi＆CoolfansSub]\[Yuusha Raideen]\[24]\[GB]\[TVRIP]\[480P].mp4 118.2MB
 * ![mp4](https://share.dmhy.org/images/icon/mp4.gif)\[Shirokoi＆CoolfansSub]\[Yuusha Raideen]\[GB]\[TVRIP]\[480P]/\[Shirokoi＆CoolfansSub]\[Yuusha Raideen]\[18]\[GB]\[TVRIP]\[480P].mp4 116MB

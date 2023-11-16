@@ -36,7 +36,7 @@ description: '[冷番补完][明日之丈2剧场版][あしたのジョー２][A
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=4bab0b26d48518f567bb1ef7d9a67b1ab1484e5c)
 
-***
+
 
 * ![unknown](https://share.dmhy.org/images/icon/unknown.gif)\[冷番补完]\[明日之丈2剧场版]\[あしたのジョー２]\[Ashita no joe 2 Movie]\[1981]\[BDRip]\[1080P]/Fonts/方正行楷\_GBK.TTF 7.1MB
 * ![ass](https://share.dmhy.org/images/icon/ass.gif)\[冷番补完]\[明日之丈2剧场版]\[あしたのジョー２]\[Ashita no joe 2 Movie]\[1981]\[BDRip]\[1080P]/Ashita.no.Joe.2.1981.1080p.BluRay.FLAC.x264-HANDJOB.ass 111.8KB

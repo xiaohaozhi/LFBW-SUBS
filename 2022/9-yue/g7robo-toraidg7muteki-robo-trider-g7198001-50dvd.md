@@ -67,7 +67,7 @@ qBittorrent、uTorrent、Transmission
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=99c0fe0a34f5c9cd0c76d40f7400983eff0231c5)
 
-***
+
 
 * ![unknown](https://share.dmhy.org/images/icon/unknown.gif)\[冷番补完字幕组]\[无敌机器人托莱塔G7]\[無敵ロボ トライダーG7]\[Muteki Robo Trider G7]\[1980]\[01-50]\[DVD]\[简中字幕]/Fonts/SIMYOU.TTF 6.4MB
 * ![unknown](https://share.dmhy.org/images/icon/unknown.gif)\[冷番补完字幕组]\[无敌机器人托莱塔G7]\[無敵ロボ トライダーG7]\[Muteki Robo Trider G7]\[1980]\[01-50]\[DVD]\[简中字幕]/Fonts/方正大黑\_GBK.TTF 7.1MB

@@ -47,7 +47,7 @@ description: '[冷番补完字幕组][银河女战士][ガルフォース][Gall 
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=db4e2e6af819ab721e14671e4fac7d10fd4820d1)
 
-***
+
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[银河女战士]\[ガルフォース]\[Gall Force]\[1986-1997]\[576p]\[内封简繁中字]/Others/Gall Force Music.7z 1.2GB
 * ![mp4](https://share.dmhy.org/images/icon/mp4.gif)\[冷番补完字幕组]\[银河女战士]\[ガルフォース]\[Gall Force]\[1986-1997]\[576p]\[内封简繁中字]/Others/Gall Force ガルフォースすぺしゃるオマケVIDEO!! 園田健一わーるド.mp4 143.9MB

@@ -49,7 +49,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=b7e69ddee2b83ca1fde0a7799726e56ddb1b6d15)
 
-***
+
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[大和零号]\[大ヤマト零号]\[Dai Yamato Zero Gou]\[2004]\[OVA]\[全5集]\[720p]\[x265]\[内封简繁中字]/\[冷番补完字幕组]\[大和零号]\[大ヤマト零号]\[Dai Yamato Zero Gou]\[2004]\[OVA]\[全5集]\[720p]\[x265]\[Fonts].7z 14.7MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[大和零号]\[大ヤマト零号]\[Dai Yamato Zero Gou]\[2004]\[OVA]\[全5集]\[720p]\[x265]\[内封简繁中字]/\[冷番补完字幕组]\[大和零号]\[大ヤマト零号]\[Dai Yamato Zero Gou]\[2004]\[OVA]\[全5集]\[720p]\[x265]\[SUBS].7z 67.6KB

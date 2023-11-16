@@ -40,7 +40,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=c21ef4cdb0705be6082ee1827f07cb328544479d)
 
-***
+
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[梅德尔传奇]\[Maetel Legend]\[メーテルレジェンド]\[メーテルレジェンド 交響詩 宿命]\[2000]\[960p]\[OVA]\[全2集]\[内封简繁中字]/\[冷番补完字幕组]\[梅德尔传奇]\[Maetel Legend]\[メーテルレジェンド]\[メーテルレジェンド 交響詩 宿命]\[2000]\[960p]\[OVA]\[全2集]\[SUBS].7z 21.2KB
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[梅德尔传奇]\[Maetel Legend]\[メーテルレジェンド]\[メーテルレジェンド 交響詩 宿命]\[2000]\[960p]\[OVA]\[全2集]\[内封简繁中字]/冷番补完字幕组招募中.jpg 410.9KB
