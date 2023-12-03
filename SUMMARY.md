@@ -5,6 +5,8 @@
 * [开坑计划](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2023](2023/README.md)
+  * [12月](2023/12-yue/README.md)
+    * [\[RAW\]CLAMP学园侦探团](2023/12-yue/rawclamp-xue-yuan-zhen-tan-tuan.md)
   * [11月](2023/11-yue/README.md)
     * [塞纳之星](2023/11-yue/sai-na-zhi-xing.md)
   * [10月](2023/10-yue/README.md)
