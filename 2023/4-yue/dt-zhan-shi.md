@@ -45,7 +45,7 @@ description: '[冷番补完字幕组][DT战士][DTエイトロン][DT Eightron][
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=6c944198b2596d7c1d3fca16d45a63e1fc31fc20)
 
-
+***
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[DT战士]\[DTエイトロン]\[DT Eightron]\[1998]\[TV 01-26]\[720p]\[内封简繁中字]/\[冷番补完字幕组]\[DT战士]\[DTエイトロン]\[DT Eightron]\[1998]\[TV 01-26]\[720p]\[DVD Scans].7z 251.4MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[DT战士]\[DTエイトロン]\[DT Eightron]\[1998]\[TV 01-26]\[720p]\[内封简繁中字]/\[冷番补完字幕组]\[DT战士]\[DTエイトロン]\[DT Eightron]\[1998]\[TV 01-26]\[720p]\[Fonts].7z 23.2MB

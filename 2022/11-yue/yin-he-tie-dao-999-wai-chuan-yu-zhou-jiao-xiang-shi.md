@@ -42,7 +42,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=f6e070246919a39c05b079871ca3e82224f1aeb7)
 
-
+***
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[银河铁道999外传 宇宙交响诗]\[Space Symphony Maetel Ginga Tetsudou 999 Gaiden]\[宇宙交響詩メーテル \~銀河鉄道999外伝\~]\[2004]\[480p]\[全13集]\[内封简繁中字]/\[冷番补完字幕组]\[银河铁道999外传 宇宙交响诗]\[Space Symphony Maetel Ginga Tetsudou 999 Gaiden]\[宇宙交響詩メーテル \~銀河鉄道999外伝\~]\[2004]\[480p]\[全13集]\[SUBS].7z 7.9MB
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[银河铁道999外传 宇宙交响诗]\[Space Symphony Maetel Ginga Tetsudou 999 Gaiden]\[宇宙交響詩メーテル \~銀河鉄道999外伝\~]\[2004]\[480p]\[全13集]\[内封简繁中字]/冷番补完字幕组招募中.jpg 410.9KB

@@ -47,7 +47,7 @@ description: 【冷番补完字幕组】[宇宙战舰大和号2205 新的出发 
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=e395dbed219e863b0106cd0208760c515998fa78)
 
-
+***
 
 {% file src="../../.gitbook/assets/【冷番补完字幕组】[宇宙战舰大和号2205 新的出发 后篇 -STASHA-][BD][05-08][1080P][2021][简中内封].7z" %}
 

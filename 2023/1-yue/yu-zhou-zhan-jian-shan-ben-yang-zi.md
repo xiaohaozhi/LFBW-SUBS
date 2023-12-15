@@ -51,7 +51,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=ef7467e46fb99644ce1e14fa5f1646add6b64747)
 
-
+***
 
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[全26集]\[1080p]\[x265]\[内封简中字幕]/EXTRA/EP26 NCED.mkv 57.1MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[全26集]\[1080p]\[x265]\[内封简中字幕]/EXTRA/Eyecatch Collection.mkv 79.1MB

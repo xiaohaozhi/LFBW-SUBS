@@ -49,7 +49,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=c61146222c7c405157ae5f1d55140973c2df097e)
 
-
+***
 
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[SP]\[Drama CD]\[内封简中字幕]/\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[SP]\[Drama CD]\[Fonts].7z 8MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[SP]\[Drama CD]\[内封简中字幕]/\[冷番补完字幕组]\[宇宙战舰山本洋子]\[それゆけ! 宇宙戦艦ヤマモト ヨーコ]\[Sore Yuke! Uchuu Senkan Yamamoto Youko]\[1999]\[SP]\[Drama CD]\[SUBS].7z 25KB

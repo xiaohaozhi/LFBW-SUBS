@@ -52,7 +52,7 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=1a58b92cbfc4715b8965982c0b90041b3fa03862)
 
-
+***
 
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[宇宙战舰大和号 复活篇]\[宇宙戦艦ヤマト 復活篇]\[Uchuu Senkan Yamato Fukkatsu Hen]\[剧场版]\[导演剪辑版]\[2009]\[1080p]\[x265]\[内封简中字幕]/SP/MENU.mkv 65.2MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[宇宙战舰大和号 复活篇]\[宇宙戦艦ヤマト 復活篇]\[Uchuu Senkan Yamato Fukkatsu Hen]\[剧场版]\[导演剪辑版]\[2009]\[1080p]\[x265]\[内封简中字幕]/SP/「宇宙戦艦ヤマト2199」PV.mkv 174.4MB

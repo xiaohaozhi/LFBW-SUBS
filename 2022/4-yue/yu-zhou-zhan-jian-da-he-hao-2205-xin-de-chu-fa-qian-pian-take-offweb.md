@@ -57,7 +57,7 @@ description: 【冷番补完字幕组】[宇宙战舰大和号2205 新的出发 
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=da1e4a99751f10052a6908417e9bab6f1090bd51)
 
-
+***
 
 * &#x20;[【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发 前篇 -TAKE OFF-\]\[WEB\]\[1080P\]\[2021\]\[简中内封\]0Bytes](https://share.dmhy.org/topics/view/596509\_2205\_-TAKE\_OFF-\_WEB\_1080P\_2021.html)
   * &#x20;[【冷番补完字幕组】\[宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-\]\[WEB\]\[1080P\]\[2021\]\[简中内封\].mkv2.700GiB](https://share.dmhy.org/topics/view/596509\_2205\_-TAKE\_OFF-\_WEB\_1080P\_2021.html)\
