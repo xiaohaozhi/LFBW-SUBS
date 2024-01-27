@@ -26,3 +26,7 @@ description: '[冷番补完字幕组][攻壳机动队][攻殻機動隊][Ghost in
 
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[攻壳机动队]\[攻殻機動隊]\[Ghost in the Shell]\[1995]\[Movie]\[2160p]\[RAW]/Ghost.in.the.Shell.1995.2160p.UHD.BDRip.x265.DV.TrueHD.7.1.Atmos-CoolFansSub.mkv 27.0GB
 
+
+
+0BD3895A9C96B8806C67A6DB00B20457#22A5210F23ACF531A780BD96A4B14C77#28986092778#Ghost.in.the.Shell.1995.2160p.UHD.BDRip.x265.DV.TrueHD.7.1.Atmos-CoolFansSub.mkv 115://Ghost.in.the.Shell.1995.2160p.UHD.BDRip.x265.DV.TrueHD.7.1.Atmos-CoolFansSub.mkv|28986092778|09C6A3E8ED79812EA53100E7F4919EAFE4C8BC8D|FC8DEA9DC0F6B349449DF2CF0CE4A8E04DE56C9C
+
