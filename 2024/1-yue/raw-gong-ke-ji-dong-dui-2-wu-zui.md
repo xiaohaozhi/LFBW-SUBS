@@ -4,7 +4,7 @@ description: >-
   Innocence][2004][Movie][2160p][RAW]
 ---
 
-# \[RAW]
+# \[RAW]攻壳机动队2 无罪
 
 &#x20;HDR10 RAW
 
@@ -29,3 +29,5 @@ description: >-
 
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[攻壳机动队2 无罪]\[攻殻機動隊2 イノセンス]\[Ghost in the Shell 2 Innocence]\[2004]\[Movie]\[2160p]\[RAW]/Ghost.in.the.Shell.2.Innocence.2004.2160p.UHD.BDRip.x265.HDR10.DTS6.1-CoolFansSub.mkv 8.8GB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[攻壳机动队2 无罪]\[攻殻機動隊2 イノセンス]\[Ghost in the Shell 2 Innocence]\[2004]\[Movie]\[2160p]\[RAW]/Ghost.in.the.Shell.2.Innocence.2004.Menu.1080p.BDRip.x265-CoolFansSub.mkv 8.2MB
+
+45130D10393B03427A70C9FC3DBBC392#16197FF3945271C4F8DD21553AAF3924#9492029744#Ghost.in.the.Shell.2.Innocence.2004.2160p.UHD.BDRip.x265.HDR10.DTS6.1-CoolFansSub.mkv 115://Ghost.in.the.Shell.2.Innocence.2004.2160p.UHD.BDRip.x265.HDR10.DTS6.1-CoolFansSub.mkv|9492029744|61C57028C2B55540C66EEA642CC593BDCFDC8E82|C3DEC0C5E45658928AB8573414F57A462CCBB302 BE77C0F16D8F340061367B2BCF29D924#0D6CE971B60251E9812DAA864F59003A#8646440#Ghost.in.the.Shell.2.Innocence.2004.Menu.1080p.BDRip.x265-CoolFansSub.mkv 115://Ghost.in.the.Shell.2.Innocence.2004.Menu.1080p.BDRip.x265-CoolFansSub.mkv|8646440|71A40370AD65888C79A601408C825781E1FFE5F0|FD83FED5202AE68C6B5BB5D0EED2464B6C8740EE
