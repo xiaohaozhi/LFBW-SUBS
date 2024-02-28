@@ -25,7 +25,9 @@ description: '[冷番补完字幕组][幸福王子][しあわせな王子][Shiaw
 | 字幕反馈  | coolfanssub@outlook.com                                                                                                                                                                                                                      |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                         |
 
-&#x20;
+&#x20;富野由悠季作品，目前只存在意大利语版本，参考英文原文制作了中英双语字幕。
+
+日文原版胶片与DVD均在琦玉县图书馆收藏，未有通贩版本。
 
 &#x20;
 
