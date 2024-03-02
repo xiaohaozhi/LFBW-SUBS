@@ -118,3 +118,8 @@ description: >-
 字幕
 {% endfile %}
 
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][新竹取物语 1000年女王][新竹取物語 1000年女王][Queen Millennia][1981][TV 01-42Fin][1080p][Fonts].7z" %}
+字体
+{% endfile %}
