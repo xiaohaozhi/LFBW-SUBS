@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [3月](2024/3-yue/README.md)
+    * [新竹取物语 1000年女王](2024/3-yue/xin-zhu-qu-wu-yu-1000-nian-nv-wang.md)
     * [偶像天使阳子](2024/3-yue/ou-xiang-tian-shi-yang-zi.md)
   * [2月](2024/2-yue/README.md)
     * [幸福王子](2024/2-yue/xing-fu-wang-zi.md)
