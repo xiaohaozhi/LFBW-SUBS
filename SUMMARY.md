@@ -7,7 +7,7 @@
 * [2024](2024/README.md)
   * [6月](2024/6-yue/README.md)
     * [明日之丈\[V2\]](2024/6-yue/ming-ri-zhi-zhang-v2.md)
-    * [天使夜未眠\[V2\]](2024/6-yue/tian-shi-ye-wei-mian-v2.md)
+    * [天使夜未眠\[V2\]\[REV\]](2024/6-yue/tian-shi-ye-wei-mian-v2rev.md)
   * [4月](2024/4-yue/README.md)
     * [\[RAW\]未来少年柯南](2024/4-yue/raw-wei-lai-shao-nian-ke-nan.md)
     * [魔天战神](2024/4-yue/mo-tian-zhan-shen.md)
