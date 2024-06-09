@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [6月](2024/6-yue/README.md)
+    * [明日之丈 剧场版](2024/6-yue/ming-ri-zhi-zhang-ju-chang-ban.md)
     * [明日之丈\[V2\]](2024/6-yue/ming-ri-zhi-zhang-v2.md)
     * [天使夜未眠\[V2\]\[REV\]](2024/6-yue/tian-shi-ye-wei-mian-v2rev.md)
   * [4月](2024/4-yue/README.md)
