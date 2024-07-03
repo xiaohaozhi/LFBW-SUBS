@@ -5,6 +5,8 @@
 * [开坑计划](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
+  * [7月](2024/7-yue/README.md)
+    * [魔投手\[RAW\]](2024/7-yue/mo-tou-shou-raw.md)
   * [6月](2024/6-yue/README.md)
     * [明日之丈2\[V2\]](2024/6-yue/ming-ri-zhi-zhang-2v2.md)
     * [明日之丈 剧场版](2024/6-yue/ming-ri-zhi-zhang-ju-chang-ban.md)
