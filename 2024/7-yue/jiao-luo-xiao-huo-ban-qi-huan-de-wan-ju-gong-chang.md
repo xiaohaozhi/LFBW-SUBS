@@ -8,6 +8,14 @@ description: >-
 
 ![](https://s21.ax1x.com/2024/07/30/pkLr6Xt.jpg)
 
+<figure><img src="../../.gitbook/assets/f5617c9a063c42309353068c052a6677_pkLr6Xt.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
 | 片名   | <p>[角落小伙伴 拼凑工厂的不可思议之子]</p><p>[映画 すみっコぐらし ツギハギ工場のふしぎなコ]</p><p>[Eiga Sumikko Gurashi: Tsugihagi Koujou no Fushigi na Ko]</p> |
 | ---- | -------------------------------------------------------------------------------------------------------------------------- |
 | 制作   | 冷番补完字幕组                                                                                                                    |
@@ -27,6 +35,8 @@ description: >-
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                         |
 
 &#x20;
+
+<figure><img src="../../.gitbook/assets/5a6a1839945ad256c3445cfbb771b189_978071a1a11bf17e9f995c7a73e90c02.jpg" alt=""><figcaption></figcaption></figure>
 
 ![](https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg)
 
