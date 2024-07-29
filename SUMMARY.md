@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [7月](2024/7-yue/README.md)
+    * [角落小伙伴 奇幻的玩具工厂](2024/7-yue/jiao-luo-xiao-huo-ban-qi-huan-de-wan-ju-gong-chang.md)
     * [魔投手\[RAW\]](2024/7-yue/mo-tou-shou-raw.md)
   * [6月](2024/6-yue/README.md)
     * [明日之丈2\[V2\]](2024/6-yue/ming-ri-zhi-zhang-2v2.md)
