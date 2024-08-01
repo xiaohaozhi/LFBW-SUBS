@@ -8,8 +8,6 @@ description: >-
 
 ![](https://s21.ax1x.com/2024/07/30/pkLr6Xt.jpg)
 
-<figure><img src="../../.gitbook/assets/f5617c9a063c42309353068c052a6677_pkLr6Xt.jpg" alt=""><figcaption></figcaption></figure>
-
 
 
 
@@ -37,8 +35,6 @@ description: >-
 &#x20;
 
 <figure><img src="../../.gitbook/assets/5a6a1839945ad256c3445cfbb771b189_978071a1a11bf17e9f995c7a73e90c02.jpg" alt=""><figcaption></figcaption></figure>
-
-![](https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg)
 
 \
 
