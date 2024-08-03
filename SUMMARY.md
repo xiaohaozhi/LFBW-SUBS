@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [8月](2024/8-yue/README.md)
+    * [战争童话集 我的防空洞](2024/8-yue/zhan-zheng-tong-hua-ji-wo-de-fang-kong-dong.md)
     * [永远的大和号 REBEL3199 第一章 黑之侵略](2024/8-yue/yong-yuan-de-da-he-hao-rebel3199-di-yi-zhang-hei-zhi-qin-le.md)
   * [7月](2024/7-yue/README.md)
     * [角落小伙伴 奇幻的玩具工厂](2024/7-yue/jiao-luo-xiao-huo-ban-qi-huan-de-wan-ju-gong-chang.md)
