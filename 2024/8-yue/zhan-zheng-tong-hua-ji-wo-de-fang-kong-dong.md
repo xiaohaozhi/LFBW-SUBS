@@ -4,7 +4,7 @@ description: '[冷番补完字幕组][战争童话集 我的防空洞][戦争童
 
 # 战争童话集 我的防空洞
 
-
+<figure><img src="../../.gitbook/assets/c994681dacd00ef8e1cb5d34e6b1ab75_pkjs3Y8.jpg" alt=""><figcaption></figcaption></figure>
 
 | 片名    | <p>[战争童话集 我的防空洞]</p><p>[戦争童話集 ぼくの防空壕]</p> |
 | ----- | ----------------------------------------- |
@@ -25,6 +25,8 @@ description: '[冷番补完字幕组][战争童话集 我的防空洞][戦争童
 
 \
 
+
+<figure><img src="../../.gitbook/assets/5a6a1839945ad256c3445cfbb771b189_978071a1a11bf17e9f995c7a73e90c02 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +54,15 @@ description: '[冷番补完字幕组][战争童话集 我的防空洞][戦争童
 
 
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][战争童话集 我的防空洞][戦争童話集 ぼくの防空壕][2005][TV][04][480p][SUB].7z" %}
+字幕
+{% endfile %}
 
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][战争童话集 我的防空洞][戦争童話集 ぼくの防空壕][2005][TV][04][480p][Fonts].7z" %}
+字体
+{% endfile %}
 
 
 
