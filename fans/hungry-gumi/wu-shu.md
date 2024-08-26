@@ -4,6 +4,8 @@ description: '[HUNGRY GUMI][巫术][ウィザードリィ][Wizardry][1991][OVA][
 
 # 巫术
 
+<figure><img src="../../.gitbook/assets/latest.jpg" alt=""><figcaption></figcaption></figure>
+
 听译：GUNDAMmk2&#x20;
 
 时间轴：GUNDAMmk2&#x20;
