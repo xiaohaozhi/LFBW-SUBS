@@ -6,7 +6,7 @@
 
 翻校:D.C. 公孙少 Thor Ankhyty
 
-
+有错误请指证，联系邮箱:coolfanssub@outlook.com
 
 
 
