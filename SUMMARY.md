@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [9月](2024/9-yue/README.md)
+    * [机动战士高达 闪光的哈萨维](2024/9-yue/ji-dong-zhan-shi-gao-da-shan-guang-de-ha-sa-wei.md)
     * [银河漂流](2024/9-yue/yin-he-piao-liu.md)
   * [8月](2024/8-yue/README.md)
     * [你想活出怎样的人生](2024/8-yue/ni-xiang-huo-chu-zen-yang-de-ren-sheng.md)
