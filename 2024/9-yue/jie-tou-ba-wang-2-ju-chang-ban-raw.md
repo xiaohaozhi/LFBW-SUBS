@@ -2,7 +2,7 @@
 description: '[冷番补完字幕组][街头霸王2][ストリートファイターII][Street Fighter II][1994][Movie][2160p][RAW]'
 ---
 
-# 街头霸王2 剧场版
+# 街头霸王2 剧场版\[RAW]
 
 * [BT列表](https://share.dmhy.org/topics/view/678429\_2\_II\_Street\_Fighter\_II\_1994\_Movie\_2160p\_RAW.html#tabs-1)
 
