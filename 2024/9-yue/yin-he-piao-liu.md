@@ -19,7 +19,7 @@ description: '[冷番补完字幕组&白恋字幕组][银河漂流][Ginga Hyoury
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/7193c6d2e1c0fbc018a91164aee1a67c_pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7193c6d2e1c0fbc018a91164aee1a67c_pAVn8sA (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * [BT列表](https://share.dmhy.org/topics/view/678157\_Ginga\_Hyouryuu\_1983-1998\_TV\_OVA\_1080p.html#tabs-1)
 

@@ -30,7 +30,7 @@ description: >-
 \
 
 
-<figure><img src="../../.gitbook/assets/7193c6d2e1c0fbc018a91164aee1a67c_pAVn8sA (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7193c6d2e1c0fbc018a91164aee1a67c_pAVn8sA (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * [BT列表](https://share.dmhy.org/topics/view/678160\_Mobile\_Suit\_Gundam\_Hathaway\_2021\_Movie\_2160p.html#tabs-1)
 
