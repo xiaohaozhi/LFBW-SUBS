@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [9月](2024/9-yue/README.md)
+    * [银河铁道999\[系列\]](2024/9-yue/yin-he-tie-dao-999-xi-lie.md)
     * [青兰圆舞曲](2024/9-yue/qing-lan-yuan-wu-qu.md)
     * [街头霸王2 剧场版\[RAW\]](2024/9-yue/jie-tou-ba-wang-2-ju-chang-ban-raw.md)
     * [火冰历险](2024/9-yue/huo-bing-li-xian.md)
