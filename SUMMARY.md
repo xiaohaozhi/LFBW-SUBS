@@ -5,6 +5,8 @@
 * [开坑计划](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
+  * [10月](2024/10-yue/README.md)
+    * [唯愿来世不相识01-02](2024/10-yue/wei-yuan-lai-shi-bu-xiang-shi-0102.md)
   * [9月](2024/9-yue/README.md)
     * [银河铁道999\[系列\]](2024/9-yue/yin-he-tie-dao-999-xi-lie.md)
     * [青兰圆舞曲](2024/9-yue/qing-lan-yuan-wu-qu.md)
