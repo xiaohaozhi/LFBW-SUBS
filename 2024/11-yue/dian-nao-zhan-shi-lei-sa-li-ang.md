@@ -10,9 +10,9 @@ description: >-
 
 <figure><img src="https://s21.ax1x.com/2024/11/02/pArPsbQ.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
 新封面
-
-
 
 <figure><img src="https://s21.ax1x.com/2024/11/03/pArZhFg.png" alt=""><figcaption></figcaption></figure>
 
@@ -29,6 +29,7 @@ description: >-
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 播放器   | [K-lite](https://codecguide.com/download\_kl.htm)、[Potplayer](https://potplayer.daum.net/)、[MPC-BE](https://sourceforge.net/projects/mpcbe/)、[MX Player](https://www.lanzoui.com/b688551)                                                    |
 | 下载/分流 | <p><a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases">qBittorrent</a>、<a href="https://hungryxhz.lanzouu.com/iUAtd058gd4h">uTorrent</a>、<a href="https://deluge-torrent.org/">Deluge</a></p><p>推荐使用正规BT软件，延长保种时间</p> |
+| 做种辅助  | [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)                                                                                                                                                                                    |
 | 发布页面  | [https://coolfanssub.gitbook.io/lfbw-subs](https://coolfanssub.gitbook.io/lfbw-subs)                                                                                                                                                         |
 | 字幕反馈  | coolfanssub@outlook.com                                                                                                                                                                                                                      |
 | 粉丝群   | 145079083                                                                                                                                                                                                                                    |
