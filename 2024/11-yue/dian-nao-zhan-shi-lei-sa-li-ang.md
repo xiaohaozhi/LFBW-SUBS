@@ -10,6 +10,12 @@ description: >-
 
 <figure><img src="https://s21.ax1x.com/2024/11/02/pArPsbQ.jpg" alt=""><figcaption></figcaption></figure>
 
+新封面
+
+
+
+<figure><img src="https://s21.ax1x.com/2024/11/03/pArZhFg.png" alt=""><figcaption></figcaption></figure>
+
 | 片名 | <p>[电脑战士雷萨里昂]</p><p>[ビデオ戦士レザリオン]</p><p>[Video Warrior Laserion]</p> |
 | -- | ------------------------------------------------------------------- |
 | 制作 | 冷番补完字幕组                                                             |
