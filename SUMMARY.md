@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2024](2024/README.md)
   * [12月](2024/12-yue/README.md)
+    * [LET'S 啪啪啪](2024/12-yue/lets-pa-pa-pa.md)
     * [永远的大和号 REBEL3199 第二章 赤日的出击](2024/12-yue/yong-yuan-de-da-he-hao-rebel3199-di-er-zhang-chi-ri-de-chu-ji.md)
   * [11月](2024/11-yue/README.md)
     * [罗德斯岛战记\[RAW\]](2024/11-yue/luo-de-si-dao-zhan-ji-raw.md)
