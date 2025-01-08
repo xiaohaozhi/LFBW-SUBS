@@ -18,7 +18,7 @@
     * [机动战舰抚子号\[系列\]\[RAW\]](2024/11-yue/ji-dong-zhan-jian-fu-zi-hao-xi-lie-raw.md)
     * [电脑战士雷萨里昂](2024/11-yue/dian-nao-zhan-shi-lei-sa-li-ang.md)
   * [10月](2024/10-yue/README.md)
-    * [唯愿来世不相识01-02](2024/10-yue/wei-yuan-lai-shi-bu-xiang-shi-0102.md)
+    * [\[连\]唯愿来世不相识\[01-02\]](2024/10-yue/lian-wei-yuan-lai-shi-bu-xiang-shi-0102.md)
   * [9月](2024/9-yue/README.md)
     * [银河铁道999\[系列\]](2024/9-yue/yin-he-tie-dao-999-xi-lie.md)
     * [青兰圆舞曲](2024/9-yue/qing-lan-yuan-wu-qu.md)
