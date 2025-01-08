@@ -2,7 +2,7 @@
 description: '[冷番补完字幕组][BanG Dream! Ave Mujica][2025][WEB][01][1080p][内封简繁中字]'
 ---
 
-# \[连]BanG Dream! Ave Mujica
+# \[连]BanG Dream! Ave Mujica\[01]
 
 
 
