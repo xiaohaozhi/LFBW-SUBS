@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [1月](2025/1-yue/README.md)
+    * [\[连\]BanG Dream! Ave Mujica](2025/1-yue/lian-bang-dream-ave-mujica.md)
     * [胡桃夹子幻想](2025/1-yue/hu-tao-jia-zi-huan-xiang.md)
 * [2024](2024/README.md)
   * [12月](2024/12-yue/README.md)
