@@ -52,6 +52,7 @@
   * [1月](2024/1-yue/README.md)
     * [\[RAW\]攻壳机动队2 无罪](2024/1-yue/raw-gong-ke-ji-dong-dui-2-wu-zui.md)
     * [\[RAW\]攻壳机动队 1995](2024/1-yue/raw-gong-ke-ji-dong-dui-1995.md)
+    * [CLAMP学园侦探团](2024/1-yue/clamp-xue-yuan-zhen-tan-tuan.md)
 * [2023](2023/README.md)
   * [12月](2023/12-yue/README.md)
     * [\[RAW\]潘多拉之心](2023/12-yue/raw-pan-duo-la-zhi-xin.md)
