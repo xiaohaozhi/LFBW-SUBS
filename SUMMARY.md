@@ -193,3 +193,4 @@
   * [巫术](fans/hungry-gumi/wu-shu.md)
   * [县立地球防卫军](fans/hungry-gumi/xian-li-di-qiu-fang-wei-jun.md)
   * [咆哮女郎巴明欣](fans/hungry-gumi/pao-xiaonlang-ba-ming-xin.md)
+  * [逆时针环游](fans/hungry-gumi/ni-shi-zhen-huan-you.md)
