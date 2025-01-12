@@ -130,6 +130,7 @@
     * [宇宙战舰大和号2205 新的出发 前篇 -TAKE OFF-\[WEB\]](2022/4-yue/yu-zhou-zhan-jian-da-he-hao-2205-xin-de-chu-fa-qian-pian-take-offweb.md)
 * [2020](2020/README.md)
   * [03月](2020/2020-03/README.md)
+    * [贝贝罗历险记](2020/2020-03/bei-bei-luo-li-xian-ji.md)
     * [诅咒连衣裙](2020/2020-03/zu-zhou-lian-yi-qun.md)
   * [02月](2020/2020-02/README.md)
     * [Heavy](2020/2020-02/heavy.md)
