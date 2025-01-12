@@ -120,6 +120,7 @@
   * [7月](2022/7-yue/README.md)
     * [魔幻美少女 / 奇迹女孩](2022/7-yue/leng-fan-bu-wan-zi-mu-zu-mo-huan-mei-shao-nv-qi-ji-nv-hai-miracle-girls1993hdtv0151-fin1080px265-nei.md)
   * [6月](2022/6-yue/README.md)
+    * [\[代\]宝石宠物\[43,45-52\]](2022/6-yue/dai-bao-shi-chong-wu-434552.md)
     * [明日之丈2剧场版](2022/6-yue/2ashitanojashita-no-joe-2-movie1981bdrip1080p.md)
   * [5月](2022/5-yue/README.md)
     * [宇宙战舰大和号2205 新的出发 后篇](2022/5-yue/leng-fan-bu-wan-zi-mu-zu-yu-zhou-zhan-jian-da-he-hao-2205-xin-de-chu-fa-hou-pian-stashabd05081080p20.md)
