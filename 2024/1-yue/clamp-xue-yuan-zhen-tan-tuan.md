@@ -4,7 +4,7 @@ description: >-
   Fin][720p][RAW][V2]
 ---
 
-# CLAMP学园侦探团
+# \[RAW]CLAMP学园侦探团\[V2]
 
 &#x20;修复音画不同步问题
 
