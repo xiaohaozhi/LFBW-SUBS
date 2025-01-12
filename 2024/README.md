@@ -191,3 +191,20 @@
 \[冷番补完字幕组]\[LET'S ぬぷぬぷっ]\[Let's Nupu Nupu]\[1998]\[TV 01-16Fin]\[576p]\[内封简中字幕]&#x20;
 
 链接：https://pan.quark.cn/s/8c3b37ec3f34 提取码：pTWJ
+
+
+
+其他杂项：&#x20;
+
+2024
+
+&#x20;\[CLAMP学园侦探团]\[CLAMP学園探偵団]\[Clamp Gakuen Tanteidan]\[1997]\[TV 01-26 Fin]\[720p]\[RAW]\[V2]&#x20;
+
+链接：https://pan.quark.cn/s/4bae2b022c22 提取码：WqYJ
+
+
+
+\[HUNGRY GUMI]\[巫术]\[ウィザードリィ]\[Wizardry]\[1991]\[OVA]\[720p]\[内封简中字幕]&#x20;
+
+链接：https://pan.quark.cn/s/08b320a50cc9 提取码：U86Z
+
