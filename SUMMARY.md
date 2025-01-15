@@ -165,6 +165,8 @@
     * [命运九重奏](2019/10-yue/ming-yun-jiu-chong-zou.md)
   * [09月](2019/09-yue.md)
   * [少年猿飞佐助](2019/08-yue.md)
+  * [8月](2019/8-yue/README.md)
+    * [有闲俱乐部](2019/8-yue/you-xian-ju-le-bu.md)
   * [07月](2019/07-yue.md)
   * [06月](2019/06-yue.md)
   * [05月](2019/05-yue.md)
