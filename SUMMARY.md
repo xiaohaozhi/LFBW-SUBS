@@ -169,6 +169,7 @@
     * [有闲俱乐部](2019/8-yue/you-xian-ju-le-bu.md)
   * [07月](2019/07-yue/README.md)
     * [初吻物语](2019/07-yue/chu-wen-wu-yu.md)
+    * [源氏](2019/07-yue/yuan-shi.md)
   * [06月](2019/06-yue.md)
   * [05月](2019/05-yue.md)
   * [04月](2019/04-yue.md)
