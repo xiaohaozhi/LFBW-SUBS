@@ -160,7 +160,7 @@
   * [11月](2019/11-yue/README.md)
     * [暴走战国史](2019/11-yue/bao-zou-zhan-guo-shi.md)
     * [女战士艾菲拉和吉利欧拉 古德的纹章](2019/11-yue/nv-zhan-shi-ai-fei-la-he-ji-li-ou-la-gu-de-de-wen-zhang.md)
-    * [△守护天使](2019/11-yue/shou-hu-tian-shi.md)
+    * [守护天使](2019/11-yue/shou-hu-tian-shi.md)
   * [10月](2019/10-yue.md)
   * [09月](2019/09-yue.md)
   * [08月](2019/08-yue.md)

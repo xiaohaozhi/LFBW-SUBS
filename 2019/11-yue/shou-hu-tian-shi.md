@@ -1,10 +1,10 @@
 ---
-description: 欢乐世界
+description: '[守护天使][欢乐世界][happy world!][DVDrip 576P][2002-2003][OVA 01-03][内封简中][附特典]'
 ---
 
-# △守护天使
+# 守护天使
 
-## \[守护天使]\[欢乐世界]\[happy world!]\[DVDrip 576P]\[2002-2003]\[OVA 01-03]\[内封简中]\[附特典]
+##
 
 * 發佈時間: 2019/11/18 21:51
 * 文件大小: 1.1GB
@@ -15,15 +15,15 @@ description: 欢乐世界
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 字幕 | OCR：hungry小浩纸                                                                                                                                     |
 
-* [BT列表](https://dmhy.anoneko.com/topics/view/529204\_happy\_world!\_DVDrip\_576P\_2002-2003\_OVA\_01-03.html#tabs-1)
+* [BT列表](https://dmhy.anoneko.com/topics/view/529204_happy_world!_DVDrip_576P_2002-2003_OVA_01-03.html#tabs-1)
 
 **會員專用連接:** [\[守护天使\]\[欢乐世界\]\[happy world!\]\[DVDrip 576P\]\[2002-2003\]\[OVA 01-03\]\[内封简中\]\[附特典\]](https://dl.dmhy.org/2019/11/18/bf24a356ba80c428612ff9961dd8c6e1ecd6df79.torrent)
 
-**Magnet連接:** [magnet:?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z](https://magnet/?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z\&dn=\&tr=http%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z](https://magnet/?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z\&dn=\&tr=http%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
 **Magnet連接typeII:** [magnet:?xt=urn:btih:bf24a356ba80c428612ff9961dd8c6e1ecd6df79](https://magnet/?xt=urn:btih:bf24a356ba80c428612ff9961dd8c6e1ecd6df79)
 
-**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z](ddplay:magnet:?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z\&dn=\&tr=http%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z](ddplay:magnet:?xt=urn:btih:X4SKGVV2QDCCQYJP7GLB3WGG4HWNNX3Z\&dn=\&tr=http%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.238.198.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=bf24a356ba80c428612ff9961dd8c6e1ecd6df79)
 
