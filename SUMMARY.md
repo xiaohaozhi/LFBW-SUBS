@@ -190,7 +190,7 @@
   * [04月](2018/04-yue.md)
   * [03月](2018/03-yue.md)
   * [02月](2018/02-yue.md)
-    * [海盗秘径](2018/02-yue/hai-dao-mi-jing.md)
+    * [\[代\]海盗秘径](2018/02-yue/dai-hai-dao-mi-jing.md)
     * [\[代\]骇客时空 境界性](2018/02-yue/dai-hai-ke-shi-kong-jing-jie-xing.md)
   * [01月](2018/01-yue.md)
 * [2017](2017.md)
