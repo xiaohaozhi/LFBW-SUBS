@@ -193,6 +193,7 @@
     * [\[代\]海盗秘径](2018/02-yue/hai-dao-mi-jing.md)
     * [\[代\]骇客时空 境界性](2018/02-yue/dai-hai-ke-shi-kong-jing-jie-xing.md)
   * [01月](2018/01-yue/README.md)
+    * [\[代\]神之谜题 第二季](2018/01-yue/dai-shen-zhi-mi-ti-di-er-ji.md)
     * [\[代\]人造人009 呼唤正义](2018/01-yue/dai-ren-zao-ren-009-hu-huan-zheng-yi.md)
 * [2017](2017.md)
 * [2016](2016.md)
