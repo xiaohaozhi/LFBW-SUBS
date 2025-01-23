@@ -167,6 +167,7 @@
     * [\[废\]天使夜未眠](2019/10-yue/fei-tian-shi-ye-wei-mian.md)
     * [\[代\]命运九重奏](2019/10-yue/dai-ming-yun-jiu-chong-zou.md)
     * [小露美](2019/10-yue/xiao-lu-mei.md)
+    * [总天然色少年冒险活剧漫画电影 Haruwo](2019/10-yue/zong-tian-ran-se-shao-nian-mao-xian-huo-ju-man-hua-dian-ying-haruwo.md)
   * [09月](2019/09-yue.md)
   * [\[代\]少年猿飞佐助](2019/08-yue.md)
   * [8月](2019/8-yue/README.md)
