@@ -186,3 +186,27 @@
 
 链接：https://pan.quark.cn/s/b2ccfaeef41a 提取码：zQpU
 
+
+
+其他杂项：
+
+&#x20;2023
+
+&#x20;\[冷番补完字幕组]\[圣战士丹拜因]\[Seisenshi Dunbine]\[聖戦士ダンバイン]\[BDRip]\[1080P]\[TV 01-49 Fin+OVA 01-03 Fin+TV-SPx3+SP]&#x20;
+
+链接：https://pan.quark.cn/s/f5f9ec7c276a 提取码：yk2Z
+
+
+
+\[HUNGRY GUMI]\[县立地球防卫军]\[県立地球防衛軍]\[Prefectural Earth Defense Force]\[1986]\[OVA]\[540P]\[内封简中字幕]&#x20;
+
+链接：https://pan.quark.cn/s/1914e1c9f33a 提取码：zFYJ
+
+
+
+\[弯弯字幕组]\[那个夏天]\[그 여름 극장판]\[The Summer]\[2023]\[Movie]\[1080p]\[中韩双语]
+
+链接：https://pan.quark.cn/s/4cd6cab16ecc 提取码：nSpZ
+
+
+
