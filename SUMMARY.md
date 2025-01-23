@@ -177,6 +177,8 @@
     * [\[代\]少年猿飞佐助](2019/09-yue/08-yue.md)
   * [8月](2019/8-yue/README.md)
     * [本小姐乃白鸟丽子](2019/8-yue/ben-xiao-jie-nai-bai-niao-li-zi.md)
+    * [暗黑之猫](2019/8-yue/an-hei-zhi-mao.md)
+    * [\[代\]少年猿飞佐助](2019/8-yue/dai-shao-nian-yuan-fei-zuo-zhu.md)
     * [\[代\]有闲俱乐部](2019/8-yue/dai-you-xian-ju-le-bu.md)
   * [07月](2019/07-yue/README.md)
     * [\[代\]初吻物语](2019/07-yue/dai-chu-wen-wu-yu.md)
