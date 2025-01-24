@@ -185,6 +185,7 @@
   * [07月](2019/07-yue/README.md)
     * [闪耀的我](2019/07-yue/shan-yao-de-wo.md)
     * [从梦中醒来](2019/07-yue/cong-meng-zhong-xing-lai.md)
+    * [笑面推销员](2019/07-yue/xiao-mian-tui-xiao-yuan.md)
     * [\[代\]初吻物语](2019/07-yue/dai-chu-wen-wu-yu.md)
     * [\[代\]源氏](2019/07-yue/dai-yuan-shi.md)
   * [06月](2019/06-yue.md)
