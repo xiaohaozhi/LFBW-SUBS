@@ -89,5 +89,9 @@ description: >-
 
 
 
+{% file src="../../.gitbook/assets/[桜都字幕组&冷番补完字幕组&漫猫字幕组][机动战士高达SEED FREEDOM][機動戦士ガンダムSEED FREEDOM][2024][Movie][2160p][Fonts].7z" %}
+字体
+{% endfile %}
+
 
 
