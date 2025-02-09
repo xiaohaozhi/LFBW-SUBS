@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [02月](2025/02-yue/README.md)
+    * [国王与小鸟](2025/02-yue/guo-wang-yu-xiao-niao.md)
     * [机动战士高达SEED FREEDOM](2025/02-yue/ji-dong-zhan-shi-gao-da-seed-freedom.md)
     * [唯愿来世不相识](2025/02-yue/wei-yuan-lai-shi-bu-xiang-shi.md)
   * [01月](2025/01-yue/README.md)
