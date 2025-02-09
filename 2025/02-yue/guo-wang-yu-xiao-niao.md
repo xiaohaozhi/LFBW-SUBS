@@ -6,10 +6,6 @@ description: >-
 
 # 国王与小鸟
 
-
-
-<figure><img src="https://s21.ax1x.com/2025/02/09/pEnA0ED.jpg" alt=""><figcaption></figcaption></figure>
-
 | 片名   | <p>[国王与小鸟]</p><p>[Le roi et l'oiseau]</p><p>[The King and the Mockingbird]</p> |
 | ---- | ------------------------------------------------------------------------------ |
 | 制作   | 冷番补完字幕组                                                                        |
@@ -61,10 +57,6 @@ description: >-
 {% file src="../../.gitbook/assets/[冷番补完字幕组][国王与小鸟][Le roi et l'oiseau][The King and the Mockingbird][1980][Movie][1080p][SUB].7z" %}
 字幕
 {% endfile %}
-
-
-
-{% file src="../../.gitbook/assets/[冷番补完字幕组][国王与小鸟][Le roi et l'oiseau][The King and the Mockingbird][1980][Movie][1080p][Fonts] (1).7z" %}
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][国王与小鸟][Le roi et l'oiseau][The King and the Mockingbird][1980][Movie][1080p][Fonts].7z" %}
 字体
