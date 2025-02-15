@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [02月](2025/02-yue/README.md)
+    * [\[代\]超电磁侠波鲁吉斯V](2025/02-yue/dai-chao-dian-ci-xia-bo-lu-ji-si-v.md)
     * [铃铛猫娘\[RAW\]](2025/02-yue/ling-dang-mao-niang-raw.md)
     * [国王与小鸟](2025/02-yue/guo-wang-yu-xiao-niao.md)
     * [机动战士高达SEED FREEDOM](2025/02-yue/ji-dong-zhan-shi-gao-da-seed-freedom.md)
