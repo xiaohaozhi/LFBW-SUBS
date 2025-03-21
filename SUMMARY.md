@@ -246,6 +246,7 @@
   * [08月](2018/08-yue/README.md)
     * [NG骑士柠檬汽水&40](2018/08-yue/ng-qi-shi-ning-meng-qi-shui-40.md)
     * [Dead Heat](2018/08-yue/dead-heat.md)
+    * [银牙 流星银](2018/08-yue/yin-ya-liu-xing-yin.md)
   * [07月](2018/07-yue.md)
   * [06月](2018/06-yue.md)
   * [05月](2018/05-yue.md)
