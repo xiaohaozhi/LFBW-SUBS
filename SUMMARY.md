@@ -2,7 +2,7 @@
 
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
-* [开坑计划](kai-keng-ji-hua.md)
+* [使用指南](shi-yong-zhi-nan.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [02月](2025/02-yue/README.md)
