@@ -306,6 +306,7 @@
     * [龙世纪](2017/8-yue/long-shi-ji.md)
     * [传染](2017/8-yue/chuan-ran.md)
     * [娱乐金鱼眼 剧场版](2017/8-yue/yu-le-jin-yu-yan-ju-chang-ban.md)
+    * [妖世纪水浒传 魔星降临](2017/8-yue/yao-shi-ji-shui-hu-chuan-mo-xing-jiang-lin.md)
   * [7月](2017/7-yue/README.md)
     * [刻之大地](2017/7-yue/ke-zhi-da-di.md)
     * [电脑情人OVA2](2017/7-yue/dian-nao-qing-ren-ova2.md)
