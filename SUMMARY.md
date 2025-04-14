@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [04月](2025/04-yue/README.md)
+    * [魔法公主明琪桃子 第一季](2025/04-yue/mo-fa-gong-zhu-ming-qi-tao-zi-di-yi-ji.md)
     * [橘子酱男孩](2025/04-yue/ju-zi-jiang-nan-hai.md)
   * [02月](2025/02-yue/README.md)
     * [天狼星的传说](2025/02-yue/tian-lang-xing-de-chuan-shuo.md)
