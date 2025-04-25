@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [04月](2025/04-yue/README.md)
+    * [重战机艾尔盖姆](2025/04-yue/zhong-zhan-ji-ai-er-gai-mu.md)
     * [你想活出怎样的人生\[V2\]](2025/04-yue/ni-xiang-huo-chu-zen-yang-de-ren-sheng-v2.md)
     * [魔法公主明琪桃子](2025/04-yue/mo-fa-gong-zhu-ming-qi-tao-zi.md)
     * [橘子酱男孩](2025/04-yue/ju-zi-jiang-nan-hai.md)
