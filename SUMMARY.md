@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [05月](2025/05-yue/README.md)
+    * [古灵精怪双胞胎 克莱尔学院物语](2025/05-yue/gu-ling-jing-guai-shuang-bao-tai-ke-lai-er-xue-yuan-wu-yu.md)
     * [玻璃工人](2025/05-yue/bo-li-gong-ren.md)
   * [04月](2025/04-yue/README.md)
     * [重战机艾尔盖姆](2025/04-yue/zhong-zhan-ji-ai-er-gai-mu.md)
