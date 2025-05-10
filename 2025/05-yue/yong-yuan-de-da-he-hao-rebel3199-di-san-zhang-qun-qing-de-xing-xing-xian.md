@@ -48,13 +48,3 @@ description: >-
 \
 
 
-
-
-{% file src="../../.gitbook/assets/3199 03 (1).7z" %}
-字幕
-{% endfile %}
-
-
-
-
-
