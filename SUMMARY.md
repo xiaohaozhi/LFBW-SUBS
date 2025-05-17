@@ -12,7 +12,7 @@
     * [古灵精怪双胞胎 克莱尔学院物语](2025/05-yue/gu-ling-jing-guai-shuang-bao-tai-ke-lai-er-xue-yuan-wu-yu.md)
     * [玻璃工人](2025/05-yue/bo-li-gong-ren.md)
   * [04月](2025/04-yue/README.md)
-    * [重战机艾尔盖姆](2025/04-yue/zhong-zhan-ji-ai-er-gai-mu.md)
+    * [重战机艾尔盖姆\[V2\]](2025/04-yue/zhong-zhan-ji-ai-er-gai-mu-v2.md)
     * [你想活出怎样的人生\[V2\]](2025/04-yue/ni-xiang-huo-chu-zen-yang-de-ren-sheng-v2.md)
     * [魔法公主明琪桃子](2025/04-yue/mo-fa-gong-zhu-ming-qi-tao-zi.md)
     * [橘子酱男孩](2025/04-yue/ju-zi-jiang-nan-hai.md)
