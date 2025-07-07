@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [07月](2025/07-yue/README.md)
+    * [飘泊的太阳](2025/07-yue/piao-bo-de-tai-yang.md)
     * [川本喜八郎 作品集](2025/07-yue/chuan-ben-xi-ba-lang-zuo-pin-ji.md)
   * [06月](2025/06-yue/README.md)
     * [魔法公主明琪桃子 拥抱梦想](2025/06-yue/mo-fa-gong-zhu-ming-qi-tao-zi-yong-bao-meng-xiang.md)
