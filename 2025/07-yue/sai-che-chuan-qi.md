@@ -31,6 +31,10 @@ description: >-
 \
 
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
 
 * [BT列表](https://share.dmhy.org/topics/view/699870_Baribari_Densetsu_1986-1987_OVA_Movie_720p.html#tabs-1)
@@ -56,4 +60,8 @@ description: >-
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[赛车传奇]\[冲劲传说]\[バリバリ伝説]\[Baribari Densetsu]\[1986-1987]\[OVA+Movie]\[720p]\[内封简繁中字]/\[冷番补完字幕组]\[赛车传奇]\[冲劲传说]\[バリバリ伝説]\[Baribari Densetsu]\[1986-1987]\[OVA+Movie]\[720p]\[Fonts].7z 48.2MB
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[赛车传奇]\[冲劲传说]\[バリバリ伝説]\[Baribari Densetsu]\[1986-1987]\[OVA+Movie]\[720p]\[内封简繁中字]/冷番补完字幕组招募中.jpg 410.9KB
 * ![png](https://share.dmhy.org/images/icon/png.gif)\[冷番补完字幕组]\[赛车传奇]\[冲劲传说]\[バリバリ伝説]\[Baribari Densetsu]\[1986-1987]\[OVA+Movie]\[720p]\[内封简繁中字]/赛车传奇.png 3.1MB
+
+
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][赛车传奇][冲劲传说][バリバリ伝説][Baribari Densetsu][1986-1987][OVA+Movie][720p][Fonts].7z" %}
 
