@@ -6,6 +6,8 @@ description: >-
 
 # 赛车传奇
 
+
+
 <figure><img src="https://youke1.picui.cn/s1/2025/07/25/68827a84a2059.png" alt=""><figcaption></figcaption></figure>
 
 | 片名 | <p>[赛车传奇][冲劲传说]</p><p>[バリバリ伝説]</p><p>[Baribari Densetsu]</p> |
@@ -23,7 +25,7 @@ description: >-
 | 下载/分流 | <p><a href="https://www.fosshub.com/qBittorrent.html">qBittorrent</a>、<a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases">qBEE</a>、<a href="https://hungryxhz.lanzouu.com/iUAtd058gd4h">uTorrent</a>、<a href="https://deluge-torrent.org/">Deluge</a></p><p>推荐使用正规BT软件，延长保种时间</p> |
 | 做种辅助  | [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)                                                                                                                                                                                                                                                |
 | 发布页面  | [https://coolfanssub.gitbook.io/lfbw-subs](https://coolfanssub.gitbook.io/lfbw-subs)                                                                                                                                                                                                                     |
-| 网盘链接  | 同步发布至B站动态                                                                                                                                                                                                                                                                                                |
+| 网盘链接  | [https://pan.quark.cn/s/edf12b756df3?pwd=cJgz](https://pan.quark.cn/s/edf12b756df3?pwd=cJgz)                                                                                                                                                                                                             |
 | 字幕反馈  | coolfanssub@outlook.com                                                                                                                                                                                                                                                                                  |
 | 粉丝群   | 783659313                                                                                                                                                                                                                                                                                                |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                                                                                     |
@@ -65,3 +67,4 @@ description: >-
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][赛车传奇][冲劲传说][バリバリ伝説][Baribari Densetsu][1986-1987][OVA+Movie][720p][Fonts].7z" %}
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][赛车传奇][冲劲传说][バリバリ伝説][Baribari Densetsu][1986-1987][OVA+Movie][720p][SUBS].7z" %}
