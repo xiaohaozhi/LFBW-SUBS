@@ -25,7 +25,7 @@ description: >-
 | 下载/分流 | <p><a href="https://www.fosshub.com/qBittorrent.html">qBittorrent</a>、<a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases">qBEE</a>、<a href="https://hungryxhz.lanzouu.com/iUAtd058gd4h">uTorrent</a>、<a href="https://deluge-torrent.org/">Deluge</a></p><p>推荐使用正规BT软件，延长保种时间</p> |
 | 做种辅助  | [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)                                                                                                                                                                                                                                                |
 | 发布页面  | [https://coolfanssub.gitbook.io/lfbw-subs](https://coolfanssub.gitbook.io/lfbw-subs)                                                                                                                                                                                                                     |
-| 网盘链接  | 同步发布至B站动态                                                                                                                                                                                                                                                                                                |
+| 网盘链接  | <p><a href="https://pan.quark.cn/s/82c9dfc43599%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9AErTA">https://pan.quark.cn/s/82c9dfc43599<br>提取码：ErTA</a></p>                                                                                                                                                        |
 | 字幕反馈  | coolfanssub@outlook.com                                                                                                                                                                                                                                                                                  |
 | 粉丝群   | 783659313                                                                                                                                                                                                                                                                                                |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                                                                                     |
@@ -126,3 +126,5 @@ description: >-
 {% file src="../../.gitbook/assets/[冷番补完字幕组][魔法公主明琪桃子][魔法のプリンセス ミンキーモモ][Mahou no Princess Minky Momo][1991-1994][S02+OVA][720p][Fonts].7z" %}
 字体
 {% endfile %}
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][魔法公主明琪桃子][魔法のプリンセス ミンキーモモ][Mahou no Princess Minky Momo][1991-1994][S02+OVA][720p][SUBS].7z" %}
