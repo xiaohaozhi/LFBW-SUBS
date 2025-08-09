@@ -77,3 +77,5 @@ description: 【白恋&冷番补完字幕组】[钢之魂][狮虎兽神][Juushin
 * ![7z](https://www.dmhy.org/images/icon/7z.gif)\[CoolFansSub\&Shirokoi]\[Juushin Liger]\[BDRIP]\[960x720]/\[冷番补完字幕组&白恋字幕组]\[兽神狮虎]\[Juushin Liger]\[BDRIP]\[960x720].\[Fonts].7z 27.1MB
 * ![7z](https://www.dmhy.org/images/icon/7z.gif)\[CoolFansSub\&Shirokoi]\[Juushin Liger]\[BDRIP]\[960x720]/\[冷番补完字幕组&白恋字幕组]\[兽神狮虎]\[Juushin Liger]\[BDRIP]\[960x720]\[SUBS].7z 551.8KB
 
+
+
