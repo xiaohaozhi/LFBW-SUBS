@@ -6,8 +6,6 @@ description: 【白恋&冷番补完字幕组】[钢之魂][狮虎兽神][Juushin
 
 <figure><img src="https://s21.ax1x.com/2025/08/09/pVaTQUJ.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://s21.ax1x.com/2025/08/09/pVaTQUJ.png" alt=""><figcaption></figcaption></figure>
-
 翻译：三途河的渡者、苍云曦、社畜战士ken、风华\
 时轴：ミヤキ、鲁某人、loroid、狗喵、aoba\
 校对：H魂、苍云曦\
@@ -77,5 +75,6 @@ description: 【白恋&冷番补完字幕组】[钢之魂][狮虎兽神][Juushin
 * ![7z](https://www.dmhy.org/images/icon/7z.gif)\[CoolFansSub\&Shirokoi]\[Juushin Liger]\[BDRIP]\[960x720]/\[冷番补完字幕组&白恋字幕组]\[兽神狮虎]\[Juushin Liger]\[BDRIP]\[960x720].\[Fonts].7z 27.1MB
 * ![7z](https://www.dmhy.org/images/icon/7z.gif)\[CoolFansSub\&Shirokoi]\[Juushin Liger]\[BDRIP]\[960x720]/\[冷番补完字幕组&白恋字幕组]\[兽神狮虎]\[Juushin Liger]\[BDRIP]\[960x720]\[SUBS].7z 551.8KB
 
+{% file src="../../.gitbook/assets/[CoolFansSub&Shirokoi][兽神狮虎][Juushin Liger][BDRIP][960x720][SUBS].7z" %}
 
-
+{% file src="../../.gitbook/assets/[冷番补完字幕组&白恋字幕组][兽神狮虎][Juushin Liger][BDRIP][960x720][Fonts].7z" %}
