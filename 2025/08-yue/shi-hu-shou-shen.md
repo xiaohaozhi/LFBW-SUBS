@@ -11,6 +11,12 @@ description: 【白恋&冷番补完字幕组】[钢之魂][狮虎兽神][Juushin
 校对：H魂、苍云曦\
 审核：zhang
 
+网盘地址：链接: https://pan.baidu.com/s/1-k\_-RgGEh0evCd4OipElKg 提取码: 9td2
+
+六神合体肝到50多集了 弄完可以想开坑宇宙大帝西格玛 有没有好的片源啊 画质太拉了
+
+
+
 
 
 * [BT列表](https://www.dmhy.org/topics/view/700872_Juushin_Liger_BDRIP_960x720_01-43_Fin.html#tabs-1)
