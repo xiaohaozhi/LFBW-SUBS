@@ -17,6 +17,11 @@ description: 【白恋&冷番补完字幕组】[钢之魂][狮虎兽神][Juushin
 
 
 
+链接：https://pan.quark.cn/s/e96c987a6cdb?pwd=MVY6\
+提取码：MVY6
+
+
+
 
 
 * [BT列表](https://www.dmhy.org/topics/view/700872_Juushin_Liger_BDRIP_960x720_01-43_Fin.html#tabs-1)
