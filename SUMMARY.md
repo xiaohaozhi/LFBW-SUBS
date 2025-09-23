@@ -5,6 +5,8 @@
 * [使用指南](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
+  * [09月](2025/09-yue/README.md)
+    * [秋叶原电脑组](2025/09-yue/qiu-ye-yuan-dian-nao-zu.md)
   * [08月](2025/08-yue/README.md)
     * [狮虎兽神](2025/08-yue/shi-hu-shou-shen.md)
   * [07月](2025/07-yue/README.md)
