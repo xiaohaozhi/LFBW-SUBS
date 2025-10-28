@@ -5,6 +5,8 @@
 * [使用指南](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
+  * [10月](2025/10-yue/README.md)
+    * [海暗月影](2025/10-yue/hai-an-yue-ying.md)
   * [09月](2025/09-yue/README.md)
     * [秋叶原电脑组](2025/09-yue/qiu-ye-yuan-dian-nao-zu.md)
   * [08月](2025/08-yue/README.md)
