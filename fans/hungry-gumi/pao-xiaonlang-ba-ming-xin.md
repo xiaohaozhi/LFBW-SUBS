@@ -6,8 +6,7 @@ description: >-
 
 # 咆哮女郎巴明欣
 
-\
-
+<br>
 
 | 片名   | <p>[咆哮女郎巴明欣]</p><p>[巴がゆく!]</p> |
 | ---- | ------------------------------ |
@@ -31,8 +30,7 @@ description: >-
 
 ![](https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/640163_HUNGRY_GUMI_!_Tomoe_ga_Yuku!_1991_OVA_2_480p_V2.html#tabs-1)
 

@@ -2,7 +2,7 @@
 description: '[初吻物语][first kiss story][OVA][632x480][2000][内封简中]'
 ---
 
-# 初吻物语
+# \[代]初吻物语
 
 &#x20;
 
@@ -42,8 +42,7 @@ QQ群：[293543977](https://jq.qq.com/?_wv=1027\&k=5UX65L6)
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/519807_first_kiss_story_OVA_632x480_2000.html#tabs-1)
 

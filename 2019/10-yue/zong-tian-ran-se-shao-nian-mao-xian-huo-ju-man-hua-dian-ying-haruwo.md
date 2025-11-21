@@ -18,9 +18,8 @@ description: '[冷番补完字幕组][总天然色少年冒险活剧漫画电影
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -38,8 +37,7 @@ description: '[冷番补完字幕组][总天然色少年冒险活剧漫画电影
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/526135_Haruwo_OVA_480P_2007.html#tabs-1)
 
@@ -64,4 +62,4 @@ description: '[冷番补完字幕组][总天然色少年冒险活剧漫画电影
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)总天然色少年冒险活剧漫画电影 Haruw/海报.jpg 133.8KB
 * ![ass](https://share.dmhy.org/images/icon/ass.gif)总天然色少年冒险活剧漫画电影 Haruw/\[冷番补完]\[总天然色少年冒险活剧漫画电影 Haruwo]\[総天然色少年冒険活劇漫画映画 ハルヲ]\[OVA]\[480P]\[2007]\[简体外挂].ass 29.8KB
 
-\
+<br>

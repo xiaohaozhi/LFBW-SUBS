@@ -10,9 +10,8 @@ description: '[冷番补完字幕组][月桂树的王子们][マージナルプ�
 
 
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -26,8 +25,7 @@ description: '[冷番补完字幕组][月桂树的王子们][マージナルプ�
 
 ## UPUPOO动态桌面：[http://www.upupoo.com/](http://www.upupoo.com/)1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/510737_14TV_2006_480P.html#tabs-1)
 

@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][从梦中醒来][夢から、さめない�
 
 <figure><img src="https://s2.ax1x.com/2019/07/20/ZzIkZQ.jpg" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -26,8 +25,7 @@ description: '[冷番补完字幕组][从梦中醒来][夢から、さめない�
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/520726_OVA_1987_480P.html#tabs-1)
 

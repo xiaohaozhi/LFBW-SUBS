@@ -40,9 +40,8 @@ description: '[天才黄金脑～ 神之谜题 第二季][Phi-Brain～神之谜�
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 &#x20;
 
@@ -52,8 +51,7 @@ description: '[天才黄金脑～ 神之谜题 第二季][Phi-Brain～神之谜�
 **QQ群：293543977**
 -----------------
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/480083_Phi-Brain_2_2012_BDrip_1920x1080_TV_26-50_Fin.html#tabs-1)
 

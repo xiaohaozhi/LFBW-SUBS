@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][忍空][NINKU -忍空-][55话全][1080P][B
 
 <figure><img src="https://s2.ax1x.com/2019/03/17/AZ7Ya8.png" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -24,8 +23,7 @@ description: '[冷番补完字幕组][忍空][NINKU -忍空-][55话全][1080P][B
 
 ## UPUPOO动态桌面：[http://www.upupoo.com/](http://www.upupoo.com/)1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)&#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/513029_NINKU_-_-_55_1080P_BDrip_1995.html#tabs-1)
 

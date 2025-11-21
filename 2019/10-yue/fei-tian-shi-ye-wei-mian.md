@@ -10,9 +10,8 @@ description: '[冷番补完字幕组][天使夜未眠][アーシアン][OVA][4�
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -28,8 +27,7 @@ description: '[冷番补完字幕组][天使夜未眠][アーシアン][OVA][4�
 
 ## 1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)火种计划-15T永久网盘下载补完计划：[_**http://mlx8.com/archives/413**_](http://mlx8.com/archives/413)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/527646_OVA_4_1989_480P.html#tabs-1)
 

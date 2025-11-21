@@ -16,9 +16,8 @@ description: '[冷番补完字幕组][暗黑之猫][ダークキャット][OVA][
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -34,8 +33,7 @@ description: '[冷番补完字幕组][暗黑之猫][ダークキャット][OVA][
 
 ## 1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)火种计划-15T永久网盘下载补完计划：[_**http://mlx8.com/archives/413**_](http://mlx8.com/archives/413)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/522128_OVA_1991_OVA_480P.html#tabs-1)
 

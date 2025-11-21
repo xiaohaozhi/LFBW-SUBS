@@ -8,8 +8,7 @@ description: '[冷番补完字幕组][唯愿来世不相识][来世は他人が�
 
 <figure><img src="https://s21.ax1x.com/2024/10/27/pA0Z63t.jpg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 | 片名 | <p>[唯愿来世不相识]</p><p>[来世は他人がいい]</p><p>[Yakuza Fiance]</p> |
 | -- | ------------------------------------------------------- |
@@ -34,8 +33,7 @@ description: '[冷番补完字幕组][唯愿来世不相识][来世は他人が�
 
 <figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/689024_Yakuza_Fiance_2024_12_1080p.html#tabs-1)
 

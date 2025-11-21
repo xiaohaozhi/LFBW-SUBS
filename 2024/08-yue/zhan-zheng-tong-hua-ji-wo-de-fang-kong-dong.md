@@ -16,31 +16,30 @@ description: '[冷番补完字幕组][战争童话集 我的防空洞][戦争童
 
 | 以下推荐  |                                                                                                                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 播放器   | [K-lite](https://codecguide.com/download\_kl.htm)、[Potplayer](https://potplayer.daum.net/)、[MPC-BE](https://sourceforge.net/projects/mpcbe/)、[MX Player](https://www.lanzoui.com/b688551)                                                    |
+| 播放器   | [K-lite](https://codecguide.com/download_kl.htm)、[Potplayer](https://potplayer.daum.net/)、[MPC-BE](https://sourceforge.net/projects/mpcbe/)、[MX Player](https://www.lanzoui.com/b688551)                                                     |
 | 下载/分流 | <p><a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases">qBittorrent</a>、<a href="https://hungryxhz.lanzouu.com/iUAtd058gd4h">uTorrent</a>、<a href="https://deluge-torrent.org/">Deluge</a></p><p>推荐使用正规BT软件，延长保种时间</p> |
 | 发布页面  | [https://coolfanssub.gitbook.io/lfbw-subs](https://coolfanssub.gitbook.io/lfbw-subs)                                                                                                                                                         |
 | 字幕反馈  | coolfanssub@outlook.com                                                                                                                                                                                                                      |
 | 粉丝群   | 145079083                                                                                                                                                                                                                                    |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                         |
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/5a6a1839945ad256c3445cfbb771b189_978071a1a11bf17e9f995c7a73e90c02 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-* [BT列表](https://share.dmhy.org/topics/view/675629\_2005\_TV\_04\_480p.html#tabs-1)
+* [BT列表](https://share.dmhy.org/topics/view/675629_2005_TV_04_480p.html#tabs-1)
 
 **會員專用連接:** [\[冷番补完字幕组\]\[战争童话集 我的防空洞\]\[戦争童話集 ぼくの防空壕\]\[2005\]\[TV\]\[04\]\[480p\]\[内封简体字幕\]](https://dl.dmhy.org/2024/08/03/b405f5e84b7da860e731190417c004ddfa393b04.torrent)
 
-**Magnet連接:** [magnet:?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE](https://magnet/?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE](https://magnet/?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
 **Magnet連接typeII:** [magnet:?xt=urn:btih:b405f5e84b7da860e731190417c004ddfa393b04](https://magnet/?xt=urn:btih:b405f5e84b7da860e731190417c004ddfa393b04)
 
 **在线播放:** [保存至云端](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:b405f5e84b7da860e731190417c004ddfa393b04) ?
 
-**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE](ddplay:magnet:?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE](ddplay:magnet:?xt=urn:btih:WQC7L2CLPWUGBZZRDECBPQAE3X5DSOYE\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=b405f5e84b7da860e731190417c004ddfa393b04)
 

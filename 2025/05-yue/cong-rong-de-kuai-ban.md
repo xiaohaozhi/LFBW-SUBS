@@ -31,8 +31,7 @@ description: '[冷番补完字幕组][从容的快板][Allegro non troppo][1977]
 | 粉丝群   | 783659313                                                                                                                                                                                                                                                                                                |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                                                                                     |
 
-\
-
+<br>
 
 <figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -52,3 +51,4 @@ description: '[冷番补完字幕组][从容的快板][Allegro non troppo][1977]
 
 
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][从容的快板][Allegro non troppo][1977][Movie][1080p][SUB].7z" %}

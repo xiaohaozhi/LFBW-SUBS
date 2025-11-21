@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][GREED][グリード][OVA][1985][480P][简�
 
 <figure><img src="https://s2.ax1x.com/2019/02/09/kUmYqO.png" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -26,8 +25,7 @@ description: '[冷番补完字幕组][GREED][グリード][OVA][1985][480P][简�
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/510414_GREED_OVA_1985_480P.html#tabs-1)
 

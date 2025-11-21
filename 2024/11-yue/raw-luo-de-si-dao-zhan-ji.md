@@ -4,7 +4,7 @@ description: >-
   War][1990-1998][TV+OVA][720p+1080p][RAW]
 ---
 
-# 罗德斯岛战记\[RAW]
+# \[RAW]罗德斯岛战记
 
 仅RAW，不提供字幕
 
@@ -12,7 +12,7 @@ description: >-
 
 | 以下推荐  |                                                                                                                                                                                                                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 播放器   | [K-lite](https://codecguide.com/download\_kl.htm)、[Potplayer](https://potplayer.daum.net/)、[MPC-BE](https://sourceforge.net/projects/mpcbe/)、[MX Player](https://www.lanzoui.com/b688551)                                                                                                                |
+| 播放器   | [K-lite](https://codecguide.com/download_kl.htm)、[Potplayer](https://potplayer.daum.net/)、[MPC-BE](https://sourceforge.net/projects/mpcbe/)、[MX Player](https://www.lanzoui.com/b688551)                                                                                                                 |
 | 下载/分流 | <p><a href="https://www.fosshub.com/qBittorrent.html">qBittorrent</a>、<a href="https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases">qBEE</a>、<a href="https://hungryxhz.lanzouu.com/iUAtd058gd4h">uTorrent</a>、<a href="https://deluge-torrent.org/">Deluge</a></p><p>推荐使用正规BT软件，延长保种时间</p> |
 | 做种辅助  | [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)                                                                                                                                                                                                                                                |
 | 发布页面  | [https://coolfanssub.gitbook.io/lfbw-subs](https://coolfanssub.gitbook.io/lfbw-subs)                                                                                                                                                                                                                     |
@@ -22,17 +22,17 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=2d31064b1df2990fc43641da8e2189e92c38ed2f)
 
-**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP](ddplay:magnet:?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP](ddplay:magnet:?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
 **在线播放:** [保存至云端](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:2d31064b1df2990fc43641da8e2189e92c38ed2f) ?
 
 **Magnet連接typeII:** [magnet:?xt=urn:btih:2d31064b1df2990fc43641da8e2189e92c38ed2f](https://magnet/?xt=urn:btih:2d31064b1df2990fc43641da8e2189e92c38ed2f)
 
-**Magnet連接:** [magnet:?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP](https://magnet/?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP](https://magnet/?xt=urn:btih:FUYQMSY56KMQ7RBWIHNI4IMJ5EWDR3JP\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
 **會員專用連接:** [\[冷番补完字幕组\]\[罗德斯岛战记\]\[ロードス島戦記\]\[Record of Lodoss War\]\[1990-1998\]\[TV+OVA\]\[720p+1080p\]\[RAW\]](https://dl.dmhy.org/2024/11/12/2d31064b1df2990fc43641da8e2189e92c38ed2f.torrent)
 
-* [BT列表](https://share.dmhy.org/topics/view/682707\_Record\_of\_Lodoss\_War\_1990-1998\_TV\_OVA\_720p\_1080p\_RAW.html#tabs-1)
+* [BT列表](https://share.dmhy.org/topics/view/682707_Record_of_Lodoss_War_1990-1998_TV_OVA_720p_1080p_RAW.html#tabs-1)
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[罗德斯岛战记]\[ロードス島戦記]\[Record of Lodoss War]\[1990-1998]\[TV+OVA]\[720p+1080p]\[RAW]/\[1990]\[OVA]罗德斯岛战记/Extras/Record.of.Lodoss.War.OVA.1990.SP01.1080p.BDRip.x265.FLAC-CoolFansSub.mkv 11.2MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[罗德斯岛战记]\[ロードス島戦記]\[Record of Lodoss War]\[1990-1998]\[TV+OVA]\[720p+1080p]\[RAW]/\[1990]\[OVA]罗德斯岛战记/Extras/Record.of.Lodoss.War.OVA.1990.SP02.1080p.BDRip.x265.FLAC-CoolFansSub.mkv 24.7MB
 * ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[罗德斯岛战记]\[ロードス島戦記]\[Record of Lodoss War]\[1990-1998]\[TV+OVA]\[720p+1080p]\[RAW]/\[1990]\[OVA]罗德斯岛战记/Extras/SCANS.7z 1.5GB
@@ -106,4 +106,4 @@ description: >-
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[罗德斯岛战记]\[ロードス島戦記]\[Record of Lodoss War]\[1990-1998]\[TV+OVA]\[720p+1080p]\[RAW]/\[1998]\[TV]罗德斯岛战记 英雄骑士传/Record.of.Lodoss.War.Chronicles.of.the.Heroic.Knight.1998.E26.720p.BDRip.x265.AAC-CoolFansSub.mkv 355.4MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[罗德斯岛战记]\[ロードス島戦記]\[Record of Lodoss War]\[1990-1998]\[TV+OVA]\[720p+1080p]\[RAW]/\[1998]\[TV]罗德斯岛战记 英雄骑士传/Record.of.Lodoss.War.Chronicles.of.the.Heroic.Knight.1998.E27.720p.BDRip.x265.AAC-CoolFansSub.mkv 419.5MB
 
-\
+<br>

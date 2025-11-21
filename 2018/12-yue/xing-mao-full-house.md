@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][星猫 Full House][星猫フルハウス][
 
 <figure><img src="https://s1.ax1x.com/2018/12/28/FWkQoD.jpg" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 

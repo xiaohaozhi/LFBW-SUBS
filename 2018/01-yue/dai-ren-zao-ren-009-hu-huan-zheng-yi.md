@@ -6,8 +6,7 @@ description: >-
 
 # \[代]人造人009 呼唤正义
 
-**片源：来自U2**\
-
+**片源：来自U2**<br>
 
 **字幕：**
 
@@ -47,9 +46,8 @@ description: >-
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 &#x20;
 
@@ -61,8 +59,7 @@ description: >-
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/480129_009_Cyborg_009_Call_of_Justice_2016_BDrip_1920x1080_01-12_fin.html#tabs-1)
 

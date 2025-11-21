@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][影技 克鲁达流交杀法的秘密][SHA
 
 <figure><img src="https://s2.ax1x.com/2019/08/01/eUVcFg.jpg" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -26,8 +25,7 @@ description: '[冷番补完字幕组][影技 克鲁达流交杀法的秘密][SHA
 
 ## 1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)火种计划-15T永久网盘下载补完计划：[_**http://mlx8.com/archives/413**_](http://mlx8.com/archives/413)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/521608_SHADOW_SKILL_OVA_2003_480P.html#tabs-1)
 

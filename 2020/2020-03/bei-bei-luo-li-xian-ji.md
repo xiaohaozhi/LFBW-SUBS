@@ -18,8 +18,7 @@ description: '[冷番补完字幕组][贝贝罗历险记][アンデス少年ペ�
 | 在线观看                                                                          | <p><a href="https://space.bilibili.com/7336293">有酒乐逍遥year</a> （仅部分历史稿件可在线观看）</p><p> </p>                                                                                                |
 | 字幕备份                                                                          | https://hungryxhz.gitbook.io/nfbw/                                                                                                                                                      |
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/537593_26_1975_480P.html#tabs-1)
 

@@ -28,8 +28,7 @@ description: >-
 | 粉丝群   | 783659313                                                                                                                                                                                                                                                                                                |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                                                                                     |
 
-\
-
+<br>
 
 <figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +60,7 @@ description: >-
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[永远的大和号 REBEL3199 第四章 水色的少女]\[ヤマトよ永遠に REBEL3199 第四章 水色の乙女]\[Yamato yo Towa ni Rebel 3199]\[2024]\[Movie]\[1080p]\[内封简繁中字]/永远的大和号 REBEL3199.Star.Blazers.Space.Battleship.Yamato.3199.2024.E13.1080p.BDRip.x265.FLAC-CoolFansSub.mkv 1.2GB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[永远的大和号 REBEL3199 第四章 水色的少女]\[ヤマトよ永遠に REBEL3199 第四章 水色の乙女]\[Yamato yo Towa ni Rebel 3199]\[2024]\[Movie]\[1080p]\[内封简繁中字]/永远的大和号 REBEL3199.Star.Blazers.Space.Battleship.Yamato.3199.2024.E14.1080p.BDRip.x265.FLAC-CoolFansSub.mkv 1.3GB
 
-
+{% file src="../../.gitbook/assets/[冷番补完字幕组][永远的大和号 REBEL3199 第四章 水色的少女][ヤマトよ永遠に REBEL3199 第四章 水色の乙女][2024][Movie][1080p][Fonts][REV].7z" %}
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][永远的大和号 REBEL3199 第四章 水色的少女][ヤマトよ永遠に REBEL3199 第四章 水色の乙女][Yamato yo Towa ni Rebel 3199][2024][Movie][1080p][SUBS].7z" %}
 

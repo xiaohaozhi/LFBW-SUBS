@@ -2,7 +2,7 @@
 description: '[源氏][OVA][1992][2集全][LD 640x480][内嵌简中]'
 ---
 
-# 源氏
+# \[代]源氏
 
 在视频网站发了蛮久了，但近期被x了，所以重新压制分享出来。
 
@@ -42,8 +42,7 @@ description: '[源氏][OVA][1992][2集全][LD 640x480][内嵌简中]'
 
 QQ群：[293543977](https://jq.qq.com/?_wv=1027\&k=5UX65L6)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/519723_OVA_1992_2_LD_640x480.html#tabs-1)
 

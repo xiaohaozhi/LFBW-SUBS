@@ -38,9 +38,8 @@ description: '[海盗秘径][海盜的通道][Pirate''s Passage][WEB-DL 1920x108
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 &#x20;
 
@@ -48,8 +47,7 @@ description: '[海盗秘径][海盜的通道][Pirate''s Passage][WEB-DL 1920x108
 **QQ群：293543977**
 -----------------
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/483263_Pirate_s_Passage_WEB-DL_1920x1080_2015.html#tabs-1)
 

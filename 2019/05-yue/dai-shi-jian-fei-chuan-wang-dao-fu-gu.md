@@ -6,8 +6,7 @@ description: >-
 
 # \[代]时间飞船 王道复古
 
-\
-
+<br>
 
 #### `使用gaoshu的字幕简化和对应BD调轴了`
 
@@ -29,8 +28,7 @@ description: >-
 
 #### &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/517169_Time_bokan_oudou_fukko_Time_Bokan_Royal_Revival_OVA_01-02_BDrip_1440X1080_1993_ASS.html#tabs-1)
 

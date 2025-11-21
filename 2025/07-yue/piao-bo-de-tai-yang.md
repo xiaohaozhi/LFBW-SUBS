@@ -27,15 +27,13 @@ description: '[冷番补完字幕组][飘泊的太阳][さすらいの太陽][Sa
 | 粉丝群   | 783659313                                                                                                                                                                                                                                                                                                |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                                                                                     |
 
-\
-
+<br>
 
 <figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/698669_Sasurai_no_Taiyou_1971_TV_01-26Fin_720p.html#tabs-1)
 

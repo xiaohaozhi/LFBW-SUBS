@@ -28,8 +28,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/626081_REVERSE_SP_REVERSE_SP_Tegami_Bachi_Letter_Bee_Reverse_2010_480p_x264_25.html#tabs-1)
 

@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][DELUXE ARIEL][2话全][480P][1989][简体�
 
 <figure><img src="https://s2.ax1x.com/2019/06/06/VdReZn.jpg" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -24,8 +23,7 @@ description: '[冷番补完字幕组][DELUXE ARIEL][2话全][480P][1989][简体�
 
 ## UPUPOO动态桌面：[http://www.upupoo.com/](http://www.upupoo.com/)1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)火种计划-15T永久网盘下载补完计划：[_**http://mlx8.com/archives/413**_](http://mlx8.com/archives/413)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/518180_DELUXE_ARIEL_2_480P_1989.html#tabs-1)
 

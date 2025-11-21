@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][大雪山的勇者 牙王][大雪山の勇
 
 <figure><img src="https://s2.ax1x.com/2019/03/11/ACq726.png" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -24,8 +23,7 @@ description: '[冷番补完字幕组][大雪山的勇者 牙王][大雪山の勇
 
 ## UPUPOO动态桌面：[http://www.upupoo.com/](http://www.upupoo.com/)1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)&#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/512643_1_TV_480P_1978.html#tabs-1)
 

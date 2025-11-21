@@ -6,16 +6,15 @@ description: '[冷番补完字幕组][百变之星][カレイドスター][Kalei
 
 #### \[冷番补完字幕组]\[百变之星]\[カレイドスター]\[Kaleido Star]\[2003-2006]\[TV+OVA]\[1080p]\[RAW]\[V2]
 
-* 所屬分類: [ＲＡＷ](https://share.dmhy.org/topics/list/sort\_id/7)
+* 所屬分類: [ＲＡＷ](https://share.dmhy.org/topics/list/sort_id/7)
 * 發佈時間: 2023/07/16 23:38
-* 種子下載: [下載種子/磁力鏈接](https://share.dmhy.org/topics/view/645839\_Kaleido\_Star\_2003-2006\_TV\_OVA\_1080p\_RAW\_V2.html#description-end)
+* 種子下載: [下載種子/磁力鏈接](https://share.dmhy.org/topics/view/645839_Kaleido_Star_2003-2006_TV_OVA_1080p_RAW_V2.html#description-end)
 * 在线播放: [ ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAeCAYAAAC7Q5mxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPfSURBVHgB7Zk9TBRBFMffqWgwYoHGD7CgOLSSmEik9OgwBhJtNNBiwAILIzYm8lEq0cKYSCCxOmJBMIEYLUw4C00wZwOVQkEhEE2gEKPlub99N7kPDm52p7CZf7LZ2dndt+/95//ezNwlLtzJ5cQjNvaJhxM8gY7wBDrCE+gIT6AjPIGO8AQ64oDEQF2tSHdKpOuSSEO99n1d02P8rcj6lsQGts82imxsldoZ6Ylmu/uyPptZKrV9pFZ95jh3RmRuQf2Oi8gEdraJDF4TmV8UGUoXAsKhzoDQV/dFXgSBTn2wt8m7DEhrMggqIG8+CHoqU0oW98bFHtjZ/qvtkW69loSSSD/+S85tsEGkFCbI/g6Ru5MBeVMi2RV1gIM2fbeeifSklExbENCXZbULOGMPpM6XPotdSIgC/II8fJtdUPLmPqsCo9oqhzWBqMSQR3BGceUgHVDm4HV750JFLO1UA6rpv1LahxJJz90A4W+GRNpb1IeJAZHT9epzKuirO6wHmYSvrvvY/afahodtHrwXOLP6Q2T6k163B46OBnWpq00J+FZURyCi6URwnAyUtVLdNkE/v63KhXRsQt7BGr1PHeMequE7D26IvHxf2dbqTy0ffH/6o7bx8/hRJR+/W5pUAIdqlGhsbm5LLFgrkIAIoBiMKoUdlVD7LiYL93gWImwAyaRXOqPXtMffFUgrhpmsWpN2thlM7JEVDA7pi9oZdPq45zKJRCKwUsGdDQK8OqJF/2mvSF9HwXEzQ1cDwfB8a7Nek168S3+2goIzi9XLA2nKADKBMLCkMoMdDsB3Je9J797lwAaxljHlCOthPpWLlw1RbZiC1Ei7WdVhlh6GMFLwV75mVgL3zYzOhIFP1ELUvbaltgBn+kwJKle6LawVWElRBNWXT19mUZRo0oHCHSU1UIhZ+jyeEfn9RwND+ZMDagsfqMUbVZYeKA3yUO/Ya80OiAprYIsqnTZ92eX45AFrBeIQKitOKbPWuvloZ3rjHKliAxbkBGJsYzOdJ5M+BgYwWBCZ3WNiMsosXyGYpVbDsdK2K6wJRB0sD+aS+nGOh+nKowexpBLE2sDY2wsoD5ukdRyQPaiOc1gOctpe3xQnWBOIKsZmdEvFWjBMqQrkUbBHI267dnuOQFESs7GZTePuHP67AgEzLkFRr0gV0rp4K0faohKInnWoKwAVTwwUFuZZi/UkwD9qMufi7aRRoFGcUaOrAhNx/lTiwyxX2AqFe0xRItmYU7vMHjQOwqDyg2L2rXFs8J5518zgLn7thoT/V84N/vdAR3gCHeEJdIQn0BGeQEd4Ah3hCXTEP81nkcbSBb4WAAAAAElFTkSuQmCC)](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:df8156b2649b9a96ba82d9b20aedc515cb11270c)
 * 文件大小: 46.0GB
 * 訪客互動: [舉報該資源](https://share.dmhy.org/report/add/referer/1)
 * 另類分享:             &#x20;
 
-**簡介:** \
-
+**簡介:** <br>
 
 &#x20;特别鸣谢:Kukoc@Magic-Raws
 
@@ -23,20 +22,19 @@ description: '[冷番补完字幕组][百变之星][カレイドスター][Kalei
 
 ![](https://img.gejiba.com/images/978071a1a11bf17e9f995c7a73e90c02.jpg)
 
-\
+<br>
 
-
-* [BT列表](https://share.dmhy.org/topics/view/645839\_Kaleido\_Star\_2003-2006\_TV\_OVA\_1080p\_RAW\_V2.html#tabs-1)
+* [BT列表](https://share.dmhy.org/topics/view/645839_Kaleido_Star_2003-2006_TV_OVA_1080p_RAW_V2.html#tabs-1)
 
 **會員專用連接:** [\[冷番补完字幕组\]\[百变之星\]\[カレイドスター\]\[Kaleido Star\]\[2003-2006\]\[TV+OVA\]\[1080p\]\[RAW\]\[V2\]](https://dl.dmhy.org/2023/07/16/df8156b2649b9a96ba82d9b20aedc515cb11270c.torrent)
 
-**Magnet連接:** [magnet:?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM](https://magnet/?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM](https://magnet/?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
 **Magnet連接typeII:** [magnet:?xt=urn:btih:df8156b2649b9a96ba82d9b20aedc515cb11270c](https://magnet/?xt=urn:btih:df8156b2649b9a96ba82d9b20aedc515cb11270c)
 
 **在线播放:** [保存至云端](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:df8156b2649b9a96ba82d9b20aedc515cb11270c) ?
 
-**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM](ddplay:magnet:?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM](ddplay:magnet:?xt=urn:btih:36AVNMTETONJNOUC3GZAV3OFCXFRCJYM\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=df8156b2649b9a96ba82d9b20aedc515cb11270c)
 

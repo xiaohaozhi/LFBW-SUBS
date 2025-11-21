@@ -32,25 +32,21 @@ description: 【冷番补完字幕组】[宇宙战舰大和号2205 新的出发]
 
 ![](https://s1.ax1x.com/2022/05/22/OzeHpt.jpg)
 
-\
+<br>
 
-
-*   \
-
+*   <br>
 
     **會員專用連接:** [【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发\]\[01-08 Fin\]\[BD+WEB\]\[1080P\]\[2021\]\[简中V2\]](https://dl.dmhy.org/2022/09/08/0405e9a16441b00a39828c8982a65657a3b317ce.torrent)
 
-    **Magnet連接:** [magnet:?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O](https://magnet/?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+    **Magnet連接:** [magnet:?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O](https://magnet/?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
     **Magnet連接typeII:** [magnet:?xt=urn:btih:0405e9a16441b00a39828c8982a65657a3b317ce](https://magnet/?xt=urn:btih:0405e9a16441b00a39828c8982a65657a3b317ce)
 
-    **PikPak載點:** [保存至pikpak](https://drive.mypikpak.com/landing?\_\_add\_url=magnet:?xt=urn:btih:0405e9a16441b00a39828c8982a65657a3b317ce&\_\_source=dmhy&\_\_campaign=detail\&login=oauth) [?](https://www.mypikpak.com/)
+    **PikPak載點:** [保存至pikpak](https://drive.mypikpak.com/landing?__add_url=magnet:?xt=urn:btih:0405e9a16441b00a39828c8982a65657a3b317ce&__source=dmhy&__campaign=detail\&login=oauth) [?](https://www.mypikpak.com/)
 
-    **彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O](ddplay:magnet:?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly\_for\_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+    **彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O](ddplay:magnet:?xt=urn:btih:AQC6TILEIGYAUOMCRSEYFJSWK6R3GF6O\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
     **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=0405e9a16441b00a39828c8982a65657a3b317ce)
-
-    ***
 
     * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发]\[01-08 Fin]\[BD+WEB]\[1080P]\[2021]\[简中V2]/BD/Uchuu.Senkan.Yamato.2205.Aratanaru.Tabidachi.2021.E01.V2.1080p.BDRip.x264.FLAC-CoolFansSub.mkv 1.9GB
     * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)【冷番补完字幕组】\[宇宙战舰大和号2205 新的出发]\[01-08 Fin]\[BD+WEB]\[1080P]\[2021]\[简中V2]/BD/Uchuu.Senkan.Yamato.2205.Aratanaru.Tabidachi.2021.E02.V2.1080p.BDRip.x264.FLAC-CoolFansSub.mkv 1.9GB

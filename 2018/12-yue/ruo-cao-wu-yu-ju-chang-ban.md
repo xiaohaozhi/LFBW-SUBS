@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][若草物语][若草物語][剧场版][480
 
 <figure><img src="https://s1.ax1x.com/2018/12/21/FsP5u9.jpg" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 

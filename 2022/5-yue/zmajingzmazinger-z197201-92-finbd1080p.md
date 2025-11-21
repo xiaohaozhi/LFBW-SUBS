@@ -9,7 +9,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 * 所屬分類: 動畫
 * 發佈時間: 2022/05/13 23:19
 * 種子下載: [下載種子/磁力鏈接](broken-reference)
-* 在线播放: [ ](https://drive.mypikpak.com/landing?\_\_add\_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&\_\_source=dmhy&\_\_campaign=detail\&login=oauth)
+* 在线播放: [ ](https://drive.mypikpak.com/landing?__add_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&__source=dmhy&__campaign=detail\&login=oauth)
 * 文件大小: 32.8GB
 * 訪客互動: 舉報該資源
 
@@ -17,8 +17,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 
 ![](https://s1.ax1x.com/2022/05/13/Oy8kaq.jpg)
 
-\
-
+<br>
 
 &#x20;
 
@@ -50,7 +49,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 
 **Magnet連接typeII:** [magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a](https://magnet/?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a)
 
-**PikPak載點:** [保存至pikpak](https://drive.mypikpak.com/landing?\_\_add\_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&\_\_source=dmhy&\_\_campaign=detail\&login=oauth) [?](https://www.mypikpak.com/)
+**PikPak載點:** [保存至pikpak](https://drive.mypikpak.com/landing?__add_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&__source=dmhy&__campaign=detail\&login=oauth) [?](https://www.mypikpak.com/)
 
 **彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:FGLN4TD3DHH6WMY32UHGWLUCQU2EXODK](broken-reference) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 

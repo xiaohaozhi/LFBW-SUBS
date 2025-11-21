@@ -27,8 +27,7 @@ description: >-
 | 粉丝群   | 145079083                                                                                                                                                                                                                                                                                                |
 | 字体加载  | [https://www.bilibili.com/read/cv20525110](https://www.bilibili.com/read/cv20525110)                                                                                                                                                                                                                     |
 
-\
-
+<br>
 
 * [\
   BT列表](https://dmhy.org/topics/view/694737_REBEL3199_REBEL3199_Yamato_yo_Towa_ni_Rebel_3199_2024_Movie_1080p.html#tabs-1)
@@ -45,6 +44,12 @@ description: >-
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=04a7a459d5a927fb2cfa700b18ac0f38597843cc)
 
-\
+<br>
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][永远的大和号 REBEL3199 第三章 群青的星形线][ヤマトよ永遠に REBE... Towa ni Rebel 3199][2024][Movie][1080p][SUBS].7z" %}
+字幕
+{% endfile %}
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][永远的大和号 REBEL3199 第三章 群青的星形线][ヤマトよ永遠に REBE... Towa ni Rebel 3199][2024][Movie][1080p][Fonts].7z" %}
+字体
+{% endfile %}

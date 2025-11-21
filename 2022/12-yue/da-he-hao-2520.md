@@ -27,8 +27,7 @@ description: '[冷番补完字幕组][大和号2520][YAMATO2520][OVA][1995][720p
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/626083_2520_YAMATO2520_OVA_1995_720p_x265_3.html#tabs-1)
 

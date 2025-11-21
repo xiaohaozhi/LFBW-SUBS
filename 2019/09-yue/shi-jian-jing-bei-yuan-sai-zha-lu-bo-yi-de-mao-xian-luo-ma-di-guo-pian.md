@@ -12,9 +12,8 @@ description: >-
 
 
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -32,8 +31,7 @@ description: >-
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/524686_OVA_480P_1999.html#tabs-1)
 

@@ -8,9 +8,8 @@ description: '[冷番补完字幕组][特搜机械队21C][テクノポリス21�
 
 <figure><img src="https://s2.ax1x.com/2019/01/12/FjJkx1.jpg" alt=""><figcaption></figcaption></figure>
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -24,8 +23,7 @@ description: '[冷番补完字幕组][特搜机械队21C][テクノポリス21�
 
 ## UPUPOO动态桌面：[http://www.upupoo.com/](http://www.upupoo.com/)1080P动漫下载： [http://dm1080p.com/](http://dm1080p.com/)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/508179_21C_21_OVA_1982_480P.html#tabs-1)
 

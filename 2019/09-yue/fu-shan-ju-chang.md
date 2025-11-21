@@ -7,9 +7,8 @@ description: '[冷番补完字幕组][福山剧场][ふくやま劇場][OVA][480
 链接：![](file:///C:/Users/hasee/AppData/Roaming/Tencent/QQ/Temp/%W@GJ$ACOF\(TYDYECOKVDYB.png)https://pan.baidu.com/s/1SPq2pnYYYo4RCRWIVnNtdw \
 提取码：szmz&#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -25,8 +24,7 @@ description: '[冷番补完字幕组][福山剧场][ふくやま劇場][OVA][480
 
 ## 1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)火种计划-15T永久网盘下载补完计划：[_**http://mlx8.com/archives/413**_](http://mlx8.com/archives/413)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/523999_OVA_480P_1990.html#tabs-1)
 

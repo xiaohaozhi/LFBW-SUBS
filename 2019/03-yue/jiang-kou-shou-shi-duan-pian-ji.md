@@ -10,9 +10,8 @@ description: '[冷番补完字幕组][江口寿史短篇集][江口寿史の寿�
 
 
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 ## &#x20;
 
@@ -26,8 +25,7 @@ description: '[冷番补完字幕组][江口寿史短篇集][江口寿史の寿�
 
 ## UPUPOO动态桌面：[http://www.upupoo.com/](http://www.upupoo.com/)1080P动漫下载： [http://52kbd.com/](http://52kbd.com/)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/513572_1991_OVA_480P.html#tabs-1)
 

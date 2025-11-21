@@ -8,8 +8,7 @@ description: >-
 
 宣传图是沿用组内TV翻译的那个，2333333
 
-**片源：**[**Moozzi2**](https://share.dmhy.org/topics/view/472593_Moozzi2_Akai_Koudan_Zillion_BD-BOX_BD_1440x1080_x264_FLACx2.html)**（点击跳转至原帖）**\
-
+**片源：**[**Moozzi2**](https://share.dmhy.org/topics/view/472593_Moozzi2_Akai_Koudan_Zillion_BD-BOX_BD_1440x1080_x264_FLACx2.html)**（点击跳转至原帖）**<br>
 
 **字幕：由好友 99019901 制作的字幕 非常感谢**
 
@@ -47,9 +46,8 @@ description: >-
 
 &#x20;
 
-冷番补完字幕组招募中\
-
-
+冷番补完字幕组招募中<br>
+--------------
 
 &#x20;
 
@@ -63,8 +61,7 @@ description: >-
 
 &#x20;
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/480022_Akai_Koudan_Zillion_Burning_Night_BDrip_1440x1080_OVA_1988_By_lihang9901.html#tabs-1)
 

@@ -57,8 +57,7 @@ description: >-
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[天狼星的传说]\[シリウスの伝説]\[The Sea Prince and the Fire Child]\[1981]Movie\[1080p]\[内封中英双语字幕]/天狼星的传说.jpg 537.3KB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[天狼星的传说]\[シリウスの伝説]\[The Sea Prince and the Fire Child]\[1981]Movie\[1080p]\[内封中英双语字幕]/天狼星的传说.The.Sea.Prince.and.the.Fire.Child.1981.1080p.BDRip.x264.TrueHD5.1-CoolFansSub.mkv 6.6GB
 
-\
-
+<br>
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][天狼星的传说][シリウスの伝説][The Sea Prince and the Fire Child][1981]Movie[1080p][SUB].7z" %}
 字幕

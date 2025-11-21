@@ -31,8 +31,7 @@ description: '[逆时针环游][左のオクロック!!][Hidari no O''Clock!!][1
 
 ![](https://i0.hdslb.com/bfs/album/1ab7a5961132007b9b6c1f949086121925a0dfa0.jpg)
 
-\
-
+<br>
 
 * [BT列表](https://share.dmhy.org/topics/view/592514_!!_Hidari_no_O_Clock!!_1990_OVA_LD_HUNGRY_GUMI.html#tabs-1)
 
