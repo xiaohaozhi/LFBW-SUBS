@@ -8,7 +8,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 
 * 所屬分類: 動畫
 * 發佈時間: 2022/05/13 23:19
-* 種子下載: [下載種子/磁力鏈接](broken-reference)
+* 種子下載: [下載種子/磁力鏈接](/broken/pages/EAeejcHSeHw7VTtQHzOb)
 * 在线播放: [ ](https://drive.mypikpak.com/landing?__add_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&__source=dmhy&__campaign=detail\&login=oauth)
 * 文件大小: 32.8GB
 * 訪客互動: 舉報該資源
@@ -41,7 +41,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 
 &#x20;
 
-* [BT列表](broken-reference)
+* [BT列表](/broken/pages/EAeejcHSeHw7VTtQHzOb)
 
 **會員專用連接:** [\[冷番补完字幕组\]\[魔神Z\]\[マジンガーZ\]\[Mazinger Z\]\[1972\]\[01-92 Fin\]\[BD\]\[1080p\]](https://dl.dmhy.org/2022/05/13/2996de4c7b19cfeb331bd50e6b2e8285344bb86a.torrent)
 
@@ -51,7 +51,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 
 **PikPak載點:** [保存至pikpak](https://drive.mypikpak.com/landing?__add_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&__source=dmhy&__campaign=detail\&login=oauth) [?](https://www.mypikpak.com/)
 
-**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:FGLN4TD3DHH6WMY32UHGWLUCQU2EXODK](broken-reference) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:FGLN4TD3DHH6WMY32UHGWLUCQU2EXODK](/broken/pages/EAeejcHSeHw7VTtQHzOb) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
 **外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=2996de4c7b19cfeb331bd50e6b2e8285344bb86a)
 
