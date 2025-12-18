@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2025](2025/README.md)
   * [12月](2025/12-yue/README.md)
+    * [魁!!男塾](2025/12-yue/kui-nan-shu.md)
     * [梦幻世界](2025/12-yue/meng-huan-shi-jie.md)
   * [11月](2025/11-yue/README.md)
     * [网络安琪儿](2025/11-yue/wang-luo-an-qi-er.md)
