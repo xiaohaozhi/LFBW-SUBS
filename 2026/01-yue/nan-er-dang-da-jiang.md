@@ -6,9 +6,9 @@ description: >-
 
 # 男儿当大将
 
-<figure><img src="https://s41.ax1x.com/2026/01/27/pZR31Fe.png" alt=""><figcaption></figcaption></figure>
-
 <br>
+
+<figure><img src="https://s41.ax1x.com/2026/01/27/pZRzXSs.jpg" alt=""><figcaption></figcaption></figure>
 
 | 片名 | <p>[男儿当大将]</p><p>[男一匹ガキ大将]</p><p>[Otoko Ippiki Gaki Daishou]</p> |
 | -- | ---------------------------------------------------------------- |
