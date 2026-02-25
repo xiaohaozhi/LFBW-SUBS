@@ -84,7 +84,6 @@ description: >-
 字体
 {% endfile %}
 
-
-
-
-
+{% file src="../../.gitbook/assets/[冷番补完字幕组][古灵精怪双胞胎 克莱尔学院物语][青葱岁月][おちゃめなふたご クレア学院物語][The Mischievous Twins][1991][TV 01-26][720p][SUBS].7z" %}
+字幕
+{% endfile %}
