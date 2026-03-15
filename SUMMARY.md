@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
   * [03月](2026/03-yue/README.md)
+    * [红辣椒\[RAW\]](2026/03-yue/hong-la-jiao-raw.md)
     * [我与我 两个绿蒂](2026/03-yue/wo-yu-wo-liang-geldi.md)
   * [02月](2026/02-yue/README.md)
     * [岡本忠成 作品集](2026/02-yue/gang-ben-zhong-cheng-zuo-pin-ji.md)
