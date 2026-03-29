@@ -1,5 +1,5 @@
 ---
-description: '[冷番补完字幕组][史莱姆冒险记][スライム冒険記][Slimes Adventures][19895][OVA][480p][内封简英双语字幕]'
+description: '[冷番补完字幕组][史莱姆冒险记][スライム冒険記][Slimes Adventures][1995][OVA][480p][内封简英双语字幕]'
 ---
 
 # 史莱姆冒险记
@@ -30,28 +30,28 @@ description: '[冷番补完字幕组][史莱姆冒险记][スライム冒険記]
 
 <figure><img src="https://i.ibb.co/XfX6jhNR/image.jpg" alt=""><figcaption></figcaption></figure>
 
-* [BT列表](https://share.dmhy.org/topics/view/715832_Slimes_Adventures_19895_OVA_480p.html#tabs-1)
+* [BT列表](https://share.dmhy.org/topics/view/715833_Slimes_Adventures_1995_OVA_480p.html#tabs-1)
 
-**會員專用連接:** [\[冷番补完字幕组\]\[史莱姆冒险记\]\[スライム冒険記\]\[Slimes Adventures\]\[19895\]\[OVA\]\[480p\]\[内封简英双语字幕\]](https://dl.dmhy.org/2026/03/29/7879eba952959feb5cd520e085c610bb90f94654.torrent)
+**會員專用連接:** [\[冷番补完字幕组\]\[史莱姆冒险记\]\[スライム冒険記\]\[Slimes Adventures\]\[1995\]\[OVA\]\[480p\]\[内封简英双语字幕\]](https://dl.dmhy.org/2026/03/29/1a040d2ca75919c96357dcaad620352207ec401e.torrent)
 
-**Magnet連接:** [magnet:?xt=urn:btih:PB46XKKSSWP6WXGVEDQILRQQXOIPSRSU](https://magnet/?xt=urn:btih:PB46XKKSSWP6WXGVEDQILRQQXOIPSRSU\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:DICA2LFHLEM4SY2X3SVNMIBVEID6YQA6](https://magnet/?xt=urn:btih:DICA2LFHLEM4SY2X3SVNMIBVEID6YQA6\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
-**Magnet連接typeII:** [magnet:?xt=urn:btih:7879eba952959feb5cd520e085c610bb90f94654](https://magnet/?xt=urn:btih:7879eba952959feb5cd520e085c610bb90f94654)
+**Magnet連接typeII:** [magnet:?xt=urn:btih:1a040d2ca75919c96357dcaad620352207ec401e](https://magnet/?xt=urn:btih:1a040d2ca75919c96357dcaad620352207ec401e)
 
-**在线播放:** [保存至云端](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:7879eba952959feb5cd520e085c610bb90f94654) ?
+**在线播放:** [保存至云端](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:1a040d2ca75919c96357dcaad620352207ec401e) ?
 
 **迅雷下載:**
 
-**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:PB46XKKSSWP6WXGVEDQILRQQXOIPSRSU](ddplay:magnet:?xt=urn:btih:PB46XKKSSWP6WXGVEDQILRQQXOIPSRSU\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
+**彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:DICA2LFHLEM4SY2X3SVNMIBVEID6YQA6](ddplay:magnet:?xt=urn:btih:DICA2LFHLEM4SY2X3SVNMIBVEID6YQA6\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 
-**外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=7879eba952959feb5cd520e085c610bb90f94654)
+**外部搜索連接:** [從谷歌搜索資源種子](https://www.google.com/search?oe=utf-8\&q=1a040d2ca75919c96357dcaad620352207ec401e)
 
 ***
 
-* ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[19895]\[OVA]\[480p]\[内封简英双语字幕]/\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[19895]\[OVA]\[480p]\[Fonts].7z 14.8MB
-* ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[19895]\[OVA]\[480p]\[内封简英双语字幕]/冷番补完字幕组招募中.jpg 410.9KB
-* ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[19895]\[OVA]\[480p]\[内封简英双语字幕]/史莱姆冒险记.Slimes.Adventures.1995.OVA.480p.VHS.x264.FLAC-CoolFansSub.mkv 596.7MB
+* ![7z](https://share.dmhy.org/images/icon/7z.gif)\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[1995]\[OVA]\[480p]\[内封简英双语字幕]/\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[1995]\[OVA]\[480p]\[Fonts].7z 14.8MB
+* ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[1995]\[OVA]\[480p]\[内封简英双语字幕]/冷番补完字幕组招募中.jpg 410.9KB
+* ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[史莱姆冒险记]\[スライム冒険記]\[Slimes Adventures]\[1995]\[OVA]\[480p]\[内封简英双语字幕]/史莱姆冒险记.Slimes.Adventures.1995.OVA.480p.VHS.x264.FLAC-CoolFansSub.mkv 596.7MB
 
-{% file src="../../.gitbook/assets/[冷番补完字幕组][史莱姆冒险记][スライム冒険記][Slimes Adventures][19895][OVA][480p][Fonts].7z" %}
+{% file src="../../.gitbook/assets/[冷番补完字幕组][史莱姆冒险记][スライム冒険記][Slimes Adventures][1995][OVA][480p][Fonts].7z" %}
 
-{% file src="../../.gitbook/assets/[冷番补完字幕组][史莱姆冒险记][スライム冒険記][Slimes Adventures][19895][OVA][480p][SUB].7z" %}
+{% file src="../../.gitbook/assets/[冷番补完字幕组][史莱姆冒险记][スライム冒険記][Slimes Adventures][1995][OVA][480p][SUB].7z" %}
