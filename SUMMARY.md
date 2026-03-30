@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
   * [03月](2026/03-yue/README.md)
+    * [永远的大和号 REBEL3199 第五章 白热的银河大战](2026/03-yue/yong-yuan-de-da-he-hao-rebel3199-di-wu-zhang-bai-re-de-yin-he-da-zhan.md)
     * [双星奇缘](2026/03-yue/shuang-xing-qi-yuan.md)
     * [史莱姆冒险记](2026/03-yue/shi-lai-mu-mao-xian-ji.md)
     * [迷你四驱战士凛](2026/03-yue/mi-ni-si-qu-zhan-shi-lin.md)
