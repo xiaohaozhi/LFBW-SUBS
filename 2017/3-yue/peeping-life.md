@@ -12,9 +12,9 @@ description: '[冷番补完字幕组][Peeping Life][12话全][1080P][简体外�
 
 **會員專用連接:** [【冷番补完字幕组】\[Peeping Life\]\[ 12话全 \] \[1080P\]\[简体外挂\]](https://dl.dmhy.org/2017/03/03/34e3c3eef3f012aab84c58240295c65f09c66aff.torrent)
 
-**Magnet連接:** [magnet:?xt=urn:btih:GTR4H3XT6AJKVOCMLASAFFOGL4E4M2X7](https://magnet/?xt=urn:btih:GTR4H3XT6AJKVOCMLASAFFOGL4E4M2X7\&dn=\&tr=http%3A%2F%2F208.67.16.113%3A8000%2Fannounce\&tr=udp%3A%2F%2F208.67.16.113%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=http%3A%2F%2Ftr.bangumi.moe%3A6969%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Fbtfile.sdo.com%3A6961%2Fannounce\&tr=http%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\&tr=https%3A%2F%2Ftr.bangumi.moe%3A9696%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:GTR4H3XT6AJKVOCMLASAFFOGL4E4M2X7](magnet:?xt=urn:btih:GTR4H3XT6AJKVOCMLASAFFOGL4E4M2X7\&dn=\&tr=http%3A%2F%2F208.67.16.113%3A8000%2Fannounce\&tr=udp%3A%2F%2F208.67.16.113%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=http%3A%2F%2Ftr.bangumi.moe%3A6969%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Fbtfile.sdo.com%3A6961%2Fannounce\&tr=http%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce\&tr=https%3A%2F%2Ftr.bangumi.moe%3A9696%2Fannounce)
 
-**Magnet連接typeII:** [magnet:?xt=urn:btih:34e3c3eef3f012aab84c58240295c65f09c66aff](https://magnet/?xt=urn:btih:34e3c3eef3f012aab84c58240295c65f09c66aff)
+**Magnet連接typeII:** [magnet:?xt=urn:btih:34e3c3eef3f012aab84c58240295c65f09c66aff](magnet:?xt=urn:btih:34e3c3eef3f012aab84c58240295c65f09c66aff)
 
 **在线播放:** [保存至云端](https://mypikpak.com/drive/url-checker?url=magnet:?xt=urn:btih:34e3c3eef3f012aab84c58240295c65f09c66aff) ?
 

@@ -4,7 +4,7 @@ description: '[冷番补完字幕组][DT战士][DTエイトロン][DT Eightron][
 
 # DT战士
 
-![](https://img.gejiba.com/images/b369b6bb67621074f992347f8b69f042.jpg)
+<img src="https://img.gejiba.com/images/b369b6bb67621074f992347f8b69f042.jpg" alt="" height="1280" width="934">
 
 &#x20;
 
@@ -36,9 +36,9 @@ description: '[冷番补完字幕组][DT战士][DTエイトロン][DT Eightron][
 
 **會員專用連接:** [\[冷番补完字幕组\]\[DT战士\]\[DTエイトロン\]\[DT Eightron\]\[1998\]\[TV 01-26\]\[720p\]\[内封简繁中字\]](https://dl.dmhy.org/2023/04/30/6c944198b2596d7c1d3fca16d45a63e1fc31fc20.torrent)
 
-**Magnet連接:** [magnet:?xt=urn:btih:NSKEDGFSLFWXYHJ7ZILNIWTD4H6DD7BA](https://magnet/?xt=urn:btih:NSKEDGFSLFWXYHJ7ZILNIWTD4H6DD7BA\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
+**Magnet連接:** [magnet:?xt=urn:btih:NSKEDGFSLFWXYHJ7ZILNIWTD4H6DD7BA](magnet:?xt=urn:btih:NSKEDGFSLFWXYHJ7ZILNIWTD4H6DD7BA\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce)
 
-**Magnet連接typeII:** [magnet:?xt=urn:btih:6c944198b2596d7c1d3fca16d45a63e1fc31fc20](https://magnet/?xt=urn:btih:6c944198b2596d7c1d3fca16d45a63e1fc31fc20)
+**Magnet連接typeII:** [magnet:?xt=urn:btih:6c944198b2596d7c1d3fca16d45a63e1fc31fc20](magnet:?xt=urn:btih:6c944198b2596d7c1d3fca16d45a63e1fc31fc20)
 
 **彈幕播放連接:** [ddplay:magnet:?xt=urn:btih:NSKEDGFSLFWXYHJ7ZILNIWTD4H6DD7BA](ddplay:magnet:?xt=urn:btih:NSKEDGFSLFWXYHJ7ZILNIWTD4H6DD7BA\&dn=\&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce\&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce\&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce\&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce\&tr=https%3A%2F%2Ft-115.rhcloud.com%2Fonly_for_ylbud\&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce\&tr=udp%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce\&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce\&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce) [播放器官方下載地址](http://www.dandanplay.com/?from=dmhy)
 

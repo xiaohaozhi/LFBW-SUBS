@@ -47,7 +47,7 @@ description: '[冷番补完字幕组][魔神Z][マジンガーZ][Mazinger Z][197
 
 **Magnet連接:** magnet:?xt=urn:btih:FGLN4TD3DHH6WMY32UHGWLUCQU2EXODK
 
-**Magnet連接typeII:** [magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a](https://magnet/?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a)
+**Magnet連接typeII:** [magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a](magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a)
 
 **PikPak載點:** [保存至pikpak](https://drive.mypikpak.com/landing?__add_url=magnet:?xt=urn:btih:2996de4c7b19cfeb331bd50e6b2e8285344bb86a&__source=dmhy&__campaign=detail\&login=oauth) [?](https://www.mypikpak.com/)
 

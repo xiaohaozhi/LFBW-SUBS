@@ -30,7 +30,7 @@ description: '[冷番补完字幕组][魁!!男塾][Sakigake!! Otoko Juku][1988][
 <figure><img src="https://s21.ax1x.com/2024/09/02/pAVn8sA.jpg" alt=""><figcaption></figcaption></figure>
 
 * [下載種子文件](https://share.acgnx.se/down.php?date=1766118364\&hash=4cbc3bdc37ad22597406c47df5516ea1204773b7)
-* [磁力鏈接下载](https://magnet/?xt=urn:btih:4cbc3bdc37ad22597406c47df5516ea1204773b7\&tr=http://opentracker.acgnx.se/announce)
+* [磁力鏈接下载](magnet:?xt=urn:btih:4cbc3bdc37ad22597406c47df5516ea1204773b7\&tr=http://opentracker.acgnx.se/announce)
 * [磁力宅離綫下載](https://nayy.bailidujuan.top/?url=magnet:?xt=urn:btih:4cbc3bdc37ad22597406c47df5516ea1204773b7)
 * [PikPak離綫下載](https://keepshare.org/3u7jketl/magnet%3A%3Fxt%3Durn%3Abtih%3A4cbc3bdc37ad22597406c47df5516ea1204773b7)
 
