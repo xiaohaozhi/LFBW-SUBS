@@ -57,3 +57,4 @@ description: '[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HER
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HERO リボンヒーロー][2026][1080p][SUBS].7z" %}
 
+{% file src="../../.gitbook/assets/[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HERO リボンヒーロー][2026][1080p][Fonts].7z" %}
