@@ -5,6 +5,8 @@
 * [使用指南](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
+  * [08月](2026/08-yue/README.md)
+    * [缎带骑士](2026/08-yue/duan-dai-qi-shi.md)
   * [07月](2026/07-yue/README.md)
     * [偶像格斗四七牌](2026/07-yue/ou-xiang-ge-dou-si-qi-pai.md)
     * [永远的大和号 REBEL3199 第六章 碧蓝迷宫](2026/07-yue/yong-yuan-de-da-he-hao-rebel3199-di-liu-zhang-bi-lan-mi-gong.md)
