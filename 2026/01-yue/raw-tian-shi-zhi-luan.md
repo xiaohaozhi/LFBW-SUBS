@@ -51,3 +51,24 @@ description: '[冷番补完字幕组][天使之卵][天使のたまご][Angels E
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SP02.mkv 99.3MB
 * ![mkv](https://share.dmhy.org/images/icon/mkv.gif)\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/Angels.Egg.1985.OVA.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv 14.7GB
 * ![jpg](https://share.dmhy.org/images/icon/jpg.gif)\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/冷番补完字幕组招募中.jpg 410.9KB
+
+
+
+ed2k://|file|Angels.Egg.1985.OVA.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv|15759071628|a062e51336c98cd0ac75bbde3a9cf08e|/\
+ed2k://|file|SCANS.7z|2005158895|3b989b88796c96688e542b12dde2da44|/\
+ed2k://|file|SP01.mkv|1402313529|75b4256241823750c25d08fb8157aec1|/\
+ed2k://|file|SP02.mkv|104097916|512f2e7083e1b9bc07cd6bf51463c905|/\
+ed2k://|file|冷番补完字幕组招募中.jpg|420712|8928fd3e8bd485e752546be7be1fe33e|/
+
+
+
+
+
+{"scriptVersion":"2026-09-06","totalFilesCount":5,"totalSize":19271062680,"formattedTotalSize":"17.95 GB","files":\[{"etag":"e75615779061139698cbdea0410283be","size":"15759071628","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/Angels.Egg.1985.OVA.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv"},{"etag":"6f690e5e35a7be3837305ad8439b1819","size":"2005158895","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SCANS.7z"},{"etag":"e4cbe50ce5baa50597f443c851765973","size":"1402313529","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SP01.mkv"},{"etag":"6d3b1567abcc4d3addb06efb5544c479","size":"104097916","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SP02.mkv"},{"etag":"ccffa3d34c9ccebdd71e6c447b4bbcb6","size":"420712","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/冷番补完字幕组招募中.jpg"}]}
+
+
+
+
+
+{"scriptVersion":"gy666","scriptAuthor":"hungryxhz","totalFilesCount":5,"totalSize":19271062680,"formattedTotalSize":"17.95 GB","files":\[{"size":"15759071628","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/Angels.Egg.1985.OVA.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv","gcid":"B910366B8A30FF9CBF63FEFD5E3732C4298306AA","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"2005158895","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SCANS.7z","gcid":"A05E1BEE6D4B25DE2DB4AA0D33BC3E60E544FD3E","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"1402313529","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SP01.mkv","gcid":"08450D875CC84FE1DD08C07E161D40352A6792E8","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"104097916","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/SP/SP02.mkv","gcid":"2DA97C5EF60E6B5F72E5FFA5C348B5C083035787","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"420712","path":"/\[冷番补完字幕组]\[天使之卵]\[天使のたまご]\[Angels Egg]\[1985]\[OVA]\[2160p]\[RAW]/冷番补完字幕组招募中.jpg","gcid":"3A8B69885EA76C4301A771233CB79CCEB187288F","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true}],"sourceTag":"guangya"}
+
