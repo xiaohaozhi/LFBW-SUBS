@@ -59,3 +59,25 @@ description: >-
 {% file src="../../.gitbook/assets/[冷番补完字幕组][美少女雀士2][偶像格斗四七牌][アイドル ファイト スーチーパイII][Idol Fight Suchie-Pai 2][1996][OVA][480p][SUBS].7z" %}
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][美少女雀士2][偶像格斗四七牌][アイドル ファイト スーチーパイII][Idol Fight Suchie-Pai 2][1996][OVA][480p][Fonts].7z" %}
+
+
+
+ed2k://|file|\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[Fonts].7z|28664839|ba800ceefe0c7ae931baff63fa0f6f4d|/\
+ed2k://|file|\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[SUBS].7z|10359|270bfbae37fdf2cefcb377049569d7bd|/\
+ed2k://|file|\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字].torrent|5119|3a0e40d2cd006e3f94231322dd48bf70|/\
+ed2k://|file|偶像格斗四七牌.Idol.Fight.Suchie-Pai.2.1996.OVA.480p.DVDRip.x264.AC3-CoolFansSub.mkv|402874153|f50afb03906b7d50d0fe741219d92ade|/\
+ed2k://|file|偶像格斗四七牌.jpg|204262|5261e1aa2b023caa31e0670436a1e9b2|/\
+ed2k://|file|冷番补完字幕组招募中.jpg|420712|8928fd3e8bd485e752546be7be1fe33e|/
+
+
+
+{"scriptVersion":"2026-09-06","totalFilesCount":6,"totalSize":432179444,"formattedTotalSize":"412.16 MB","files":\[{"etag":"5abb4f83db58fa450d0df5fcdd1d9343","size":"28664839","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[Fonts].7z"},{"etag":"be9b21afe1422834363fac883dfbea2f","size":"10359","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[SUBS].7z"},{"etag":"98a8a9384e5120cae2e03559dc2e2109","size":"5119","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字].torrent"},{"etag":"e6b76758896c3d8d9555fdd6a89e3434","size":"402874153","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/偶像格斗四七牌.Idol.Fight.Suchie-Pai.2.1996.OVA.480p.DVDRip.x264.AC3-CoolFansSub.mkv"},{"etag":"085bcf295aee37b71c4f97acd846681f","size":"204262","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/偶像格斗四七牌.jpg"},{"etag":"ccffa3d34c9ccebdd71e6c447b4bbcb6","size":"420712","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/冷番补完字幕组招募中.jpg"}]}
+
+
+
+
+
+{"scriptVersion":"gy666","scriptAuthor":"hungryxhz","totalFilesCount":6,"totalSize":432179444,"formattedTotalSize":"412.16 MB","files":\[{"size":"28664839","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[Fonts].7z","gcid":"8A8F6B36AE3C58EF8338B721F4CCE1453EF95423","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"10359","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[SUBS].7z","gcid":"2D9B7E313D29473AA56B1EF1D1CDDA650D2C93F1","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"5119","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字].torrent","gcid":"3686A90A1F0C7D1CEA0EE3FF4BB96E49B64036E4","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"402874153","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/偶像格斗四七牌.Idol.Fight.Suchie-Pai.2.1996.OVA.480p.DVDRip.x264.AC3-CoolFansSub.mkv","gcid":"7F29CA003AA40DE28FF90AC0613D5444EF1D9CD3","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"204262","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/偶像格斗四七牌.jpg","gcid":"00E1600F9FE5B217F0BB7DD34B8048D4505543F9","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"420712","path":"/\[冷番补完字幕组]\[美少女雀士2]\[偶像格斗四七牌]\[アイドル ファイト スーチーパイII]\[Idol Fight Suchie-Pai 2]\[1996]\[OVA]\[480p]\[内封简繁中字]/冷番补完字幕组招募中.jpg","gcid":"3A8B69885EA76C4301A771233CB79CCEB187288F","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true}],"sourceTag":"guangya"}
+
+
+
