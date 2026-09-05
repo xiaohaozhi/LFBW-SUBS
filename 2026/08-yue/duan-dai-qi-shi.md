@@ -58,3 +58,10 @@ description: '[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HER
 {% file src="../../.gitbook/assets/[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HERO リボンヒーロー][2026][1080p][SUBS].7z" %}
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HERO リボンヒーロー][2026][1080p][Fonts].7z" %}
+
+
+
+改了下字幕显示顺序，没改翻译内容，随便找了个多国语音的版本封装了下
+
+{% file src="../../.gitbook/assets/[冷番补完字幕组][缎带骑士][缎带英雄][THE RIBBON HERO リボンヒーロー][2026][1080p][SUBS][V2].7z" %}
+
