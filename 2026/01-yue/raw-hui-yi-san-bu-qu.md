@@ -49,3 +49,24 @@ description: '[冷番补完字幕组][回忆三部曲][Memories][1995][Movie][21
 
 
 
+ed2k://|file|Memories.1995.Movie.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv|16880593992|35f68558711f4d78bae8c8dd11e5b245|/\
+ed2k://|file|Menu.png|4102867|1533f9349a49491c8156563818cc8677|/\
+ed2k://|file|PV.mkv|457404154|713895b57a1594e905f348536efc19b7|/\
+ed2k://|file|冷番补完字幕组招募中.jpg|420712|8928fd3e8bd485e752546be7be1fe33e|/
+
+
+
+
+
+{"scriptVersion":"2026-09-06","totalFilesCount":4,"totalSize":17342521725,"formattedTotalSize":"16.15 GB","files":\[{"etag":"da288e2da51f95faa758fb932bb7d14f","size":"16880593992","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/Memories.1995.Movie.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv"},{"etag":"ac06feb58358f455da2247180a3736ae","size":"4102867","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/SP/Menu.png"},{"etag":"83489482bcf8904b9528e62ed9eb1aa8","size":"457404154","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/SP/PV.mkv"},{"etag":"ccffa3d34c9ccebdd71e6c447b4bbcb6","size":"420712","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/冷番补完字幕组招募中.jpg"}]}
+
+
+
+
+
+{"scriptVersion":"gy666","scriptAuthor":"hungryxhz","totalFilesCount":4,"totalSize":17342521725,"formattedTotalSize":"16.15 GB","files":\[{"size":"16880593992","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/Memories.1995.Movie.2160p.BDRip.x265.HDR10.FLAC-CoolFansSub.mkv","gcid":"1DEAAC60ABD18FDD1BE9C5613187C3FD35E6E471","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"4102867","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/SP/Menu.png","gcid":"CA0046F323DE73548127E1322F22CA91B0697AA0","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"457404154","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/SP/PV.mkv","gcid":"E48EB34D357ECF7B7C3B8A5B244BED0771AE54EA","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"420712","path":"/\[冷番补完字幕组]\[回忆三部曲]\[Memories]\[1995]\[Movie]\[2160p]\[RAW]/冷番补完字幕组招募中.jpg","gcid":"3A8B69885EA76C4301A771233CB79CCEB187288F","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true}],"sourceTag":"guangya"}
+
+
+
+
+
