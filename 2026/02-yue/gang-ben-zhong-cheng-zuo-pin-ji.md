@@ -63,3 +63,37 @@ description: >-
 {% file src="../../.gitbook/assets/[冷番补完字幕组][冈本忠成 作品集][岡本忠成 作品集][Tadanari Okamoto Selected Films][1970-1991][1080p][Fonts].7z" %}
 
 {% file src="../../.gitbook/assets/[冷番补完字幕组][冈本忠成 作品集][岡本忠成 作品集][Tadanari Okamoto Selected Films][1970-1991][1080p][SUBS].7z" %}
+
+
+
+ed2k://|file|\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[Fonts].7z|15563423|3eb67a718caf475fdd20e27b5134ca2f|/\
+ed2k://|file|\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[SUBS].7z|25789|7199659dfee671149c2c784b2136ce38|/\
+ed2k://|file|冷番补完字幕组招募中.jpg|420712|8928fd3e8bd485e752546be7be1fe33e|/\
+ed2k://|file|小千.Sweet.Little.Chico.1971.E02.1080p.BDRip.x264.AAC-CoolFansSub.mkv|165043446|16e1400f8f620f7567bcdfcc20ab31ca|/\
+ed2k://|file|岡本忠成 作品集.jpg|336328|9a6d36095835794c18882961d80b98d8|/\
+ed2k://|file|来自樱花的爱.Sakura.Yori.Al.Wo.Nosete.1976.E04.1080p.BDRip.x264.AAC-CoolFansSub.mkv|42643559|a076542dcbf366da93db2968e7037fcf|/\
+ed2k://|file|花与鼹鼠.The.Robot.Moles.1970.E01.1080p.BDRip.x264.AAC-CoolFansSub.mkv|135901147|5095f42d18d1212475571621ece24b5b|/\
+ed2k://|file|要求特别多的餐厅.A.Well.Ordered.Restaurant.1991.E06.1080p.BDRip.x264.AAC-CoolFansSub.mkv|200778944|b1815b9ed68994837938d4606e387828|/\
+ed2k://|file|阿金的净琉璃.The.Magic.Ballad.1982.E05.1080p.BDRip.x264.AAC-CoolFansSub.mkv|205582480|25e402a020b30486b29908b808b87990|/\
+ed2k://|file|麻糬树.The.Mochi-Mochi.Tree.1972.E03.1080p.BDRip.x264.AAC-CoolFansSub.mkv|225644580|f7a548c4c7c6c409f38730d76840908b|/
+
+
+
+{"scriptVersion":"2026-09-06","totalFilesCount":10,"totalSize":991940408,"formattedTotalSize":"945.99 MB","files":\[{"etag":"a16f9907e998f46b3e69d54f0a7f2397","size":"15563423","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[Fonts].7z"},{"etag":"d1160271d7d254eff10025f3551a71c3","size":"25789","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[SUBS].7z"},{"etag":"ccffa3d34c9ccebdd71e6c447b4bbcb6","size":"420712","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/冷番补完字幕组招募中.jpg"},{"etag":"0f7f2a0568f90429da4acb408e15a21b","size":"165043446","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/小千.Sweet.Little.Chico.1971.E02.1080p.BDRip.x264.AAC-CoolFansSub.mkv"},{"etag":"060b8fba7bad2a9fe3cb613626eec405","size":"336328","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/岡本忠成 作品集.jpg"},{"etag":"8f1422af5098f2aa420ab8f51cd3eae6","size":"42643559","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/来自樱花的爱.Sakura.Yori.Al.Wo.Nosete.1976.E04.1080p.BDRip.x264.AAC-CoolFansSub.mkv"},{"etag":"15b8bbebf840b4cfa60a0f0071902a50","size":"135901147","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/花与鼹鼠.The.Robot.Moles.1970.E01.1080p.BDRip.x264.AAC-CoolFansSub.mkv"},{"etag":"8e1491fc130a174904322e3c76b3ebe8","size":"200778944","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/要求特别多的餐厅.A.Well.Ordered.Restaurant.1991.E06.1080p.BDRip.x264.AAC-CoolFansSub.mkv"},{"etag":"fa70eff2c00f55214f30a22839ee1ddc","size":"205582480","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/阿金的净琉璃.The.Magic.Ballad.1982.E05.1080p.BDRip.x264.AAC-CoolFansSub.mkv"},{"etag":"157a293007ef77748c7d68fd4cb098a4","size":"225644580","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/麻糬树.The.Mochi-Mochi.Tree.1972.E03.1080p.BDRip.x264.AAC-CoolFansSub.mkv"}]}
+
+
+
+
+
+
+
+
+
+{"scriptVersion":"gy666","scriptAuthor":"hungryxhz","totalFilesCount":10,"totalSize":991940408,"formattedTotalSize":"945.99 MB","files":\[{"size":"15563423","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[Fonts].7z","gcid":"984B1D536D8966ADF0E5977B9755881D50F246C3","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"25789","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[SUBS].7z","gcid":"34DADF8C91B1653E17528B57234CBA6BC4CFCC77","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"420712","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/冷番补完字幕组招募中.jpg","gcid":"3A8B69885EA76C4301A771233CB79CCEB187288F","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"165043446","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/小千.Sweet.Little.Chico.1971.E02.1080p.BDRip.x264.AAC-CoolFansSub.mkv","gcid":"7ABC9948113DB7FBC22B48CA9108FB3B0DB3DE8D","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"336328","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/岡本忠成 作品集.jpg","gcid":"B25E8757BAD7ECED24606FF2857215B6B0ADF956","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"42643559","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/来自樱花的爱.Sakura.Yori.Al.Wo.Nosete.1976.E04.1080p.BDRip.x264.AAC-CoolFansSub.mkv","gcid":"239596CC7101834DAD5F620D5855A45985893C57","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"135901147","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/花与鼹鼠.The.Robot.Moles.1970.E01.1080p.BDRip.x264.AAC-CoolFansSub.mkv","gcid":"743EA109CC216331BA180226B33265CF3640C4F0","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"200778944","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/要求特别多的餐厅.A.Well.Ordered.Restaurant.1991.E06.1080p.BDRip.x264.AAC-CoolFansSub.mkv","gcid":"AA524F281ED37A834CA8C364AA53EBF2933FCA04","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"205582480","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/阿金的净琉璃.The.Magic.Ballad.1982.E05.1080p.BDRip.x264.AAC-CoolFansSub.mkv","gcid":"B762881F12A457EC70A24BB04B6CB8E33A242436","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true},{"size":"225644580","path":"/\[冷番补完字幕组]\[冈本忠成 作品集]\[岡本忠成 作品集]\[Tadanari Okamoto Selected Films]\[1970-1991]\[1080p]\[内封简英字幕]/麻糬树.The.Mochi-Mochi.Tree.1972.E03.1080p.BDRip.x264.AAC-CoolFansSub.mkv","gcid":"524E1565ED9040F111FDA60321B9D81180A41EDD","fileId":"","cid":"","parentId":"","downloadUrl":"","sourceGuangya":true}],"sourceTag":"guangya"}
+
+
+
+
+
+
+
