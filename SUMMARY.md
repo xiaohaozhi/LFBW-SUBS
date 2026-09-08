@@ -5,6 +5,8 @@
 * [使用指南](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
+  * [09月](2026/09-yue/README.md)
+    * [小尼莫梦乡历险记](2026/09-yue/xiao-ni-mo-meng-xiang-li-xian-ji.md)
   * [08月](2026/08-yue/README.md)
     * [缎带骑士](2026/08-yue/duan-dai-qi-shi.md)
   * [07月](2026/07-yue/README.md)
