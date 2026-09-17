@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
   * [09月](2026/09-yue/README.md)
+    * [机动战士高达 闪光的哈萨维 喀耳刻的魔女](2026/09-yue/ji-dong-zhan-shi-gao-da-shan-guang-de-ha-sa-wei-ka-er-ke-de-mo-n.md)
     * [偶像计划](2026/09-yue/ou-xiang-ji-hua.md)
     * [小尼莫梦乡历险记](2026/09-yue/xiao-ni-mo-meng-xiang-li-xian-ji.md)
   * [08月](2026/08-yue/README.md)
