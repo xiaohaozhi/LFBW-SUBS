@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
   * [10月](2026/10-yue/README.md)
+    * [青瞳少女的故事](2026/10-yue/qing-tong-shaonde-gu-shi.md)
     * [化为风筝的母亲](2026/10-yue/hua-wei-feng-zheng-de-mu-qin.md)
   * [09月](2026/09-yue/README.md)
     * [美味大挑战](2026/09-yue/mei-wei-da-tiao-zhan.md)
