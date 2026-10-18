@@ -1,7 +1,7 @@
 ---
 description: >-
   [冷番补完字幕组][青瞳少女的故事][青い瞳の女の子のお話][Aoi Hitomi no Onnanoko no
-  Ohanashi][2009][TVSP][1080p][内封简繁中字].torrent
+  Ohanashi][2009][TVSP][1080p][内封简繁中字]
 ---
 
 # 青瞳少女的故事
