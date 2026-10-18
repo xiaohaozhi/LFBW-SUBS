@@ -5,6 +5,8 @@
 * [使用指南](kai-keng-ji-hua.md)
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
+  * [10月](2026/10-yue/README.md)
+    * [化为风筝的母亲](2026/10-yue/hua-wei-feng-zheng-de-mu-qin.md)
   * [09月](2026/09-yue/README.md)
     * [美味大挑战](2026/09-yue/mei-wei-da-tiao-zhan.md)
     * [机动战士高达 闪光的哈萨维 喀耳刻的魔女](2026/09-yue/ji-dong-zhan-shi-gao-da-shan-guang-de-ha-sa-wei-ka-er-ke-de-mo-n.md)
