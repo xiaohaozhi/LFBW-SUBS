@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
   * [10月](2026/10-yue/README.md)
+    * [百万吨级武藏 第二季](2026/10-yue/bai-wan-dun-ji-wu-cang-di-er-ji.md)
     * [东海道四谷怪谈 此恨岂能消](2026/10-yue/dong-hai-dao-si-gu-guai-tan-ci-hen-qi-neng-xiao.md)
     * [赤影疾风](2026/10-yue/chi-ying-ji-feng.md)
     * [青瞳少女的故事](2026/10-yue/qing-tong-shaonde-gu-shi.md)
