@@ -6,6 +6,7 @@
 * [反馈留言](fan-kui-liu-yan.md)
 * [2026](2026/README.md)
   * [11月](2026/11-yue/README.md)
+    * [永远的大和号 REBEL3199 第七章 虹色的轮回](2026/11-yue/yong-yuan-de-da-he-hao-rebel3199-di-qi-zhang-hong-se-de-lun-hui.md)
     * [爱情阵地 哈雷传说](2026/11-yue/ai-qing-zhen-di-ha-lei-chuan-shuo.md)
     * [火雨落下](2026/11-yue/huo-yu-luo-xia.md)
   * [10月](2026/10-yue/README.md)
